@@ -1,8 +1,8 @@
 #include<stdio.h>
 #include<math.h>
-#include "exponential.h"
+#include <exponential.h>
 long long result=1;
-float exponential(int n,float x)
+float expo(int n,float x)
 
 {
     int i;
@@ -33,7 +33,7 @@ float power(int base,int x1)
 }
 }
 
-int main()
+void exponential();
 {
     int n=10;
     int base;
@@ -45,7 +45,6 @@ int main()
     int x1;
     printf("Enter x1: ");
     scanf("%d",&x1);
-    printf("e^x = %f", exponential(n,x));
+    printf("e^x = %f", expo(n,x));
     printf("\na^x = %f",power(base,x1));
-    return 0;
 }
