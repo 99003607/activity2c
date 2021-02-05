@@ -37,6 +37,9 @@
 | HL5_L3_2 | Logical NOT | Choose NOT operation from all the options |Invalid int operands | Returns error as operand is invalid |    |
 | HL5_L4_1 | Logical NAND | Choose NAND operation from all the options | Two int operands | Returns NAND of two values in int |   |
 | HL5_L4_2 | Logical NAND | Choose NAND operation from all the options | In two int any one operand is invalid | Returns error as another operand is invalid |   |
+| HL3_L1_1    |      calculations trignometric operations        |       operand should be int        |        1 float or int value       |        operand can be integer or float or no value  |
+| HL3_L1_2    |      calculations trignometric operations        |       operand should be int        |        1 float or int value       |        operand can be integer or float or no value  |
+| HL3_L1_3    |      calculations trignometric operations        |       operand should be int        |        1 float or int value       |        operand can be integer or float or no value  |
 
 
 
