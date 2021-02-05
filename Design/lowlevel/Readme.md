@@ -12,4 +12,4 @@ low level requirements readme
 
 
 
-![basic operation](UML-use case diagram.png )
+![basic operation](expo_structural.png )
