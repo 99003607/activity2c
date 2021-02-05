@@ -1,5 +1,7 @@
 #include<stdio.h>
 #include<unitconver.h>
+#include<exponential.h>
+#include<Determinant.h>
 int main()
 {
 	int choice;
@@ -22,7 +24,7 @@ int main()
 			break;
 		case 6: quadratic();
 			break;
-		case 7: unitconversion();
+		case 7: unitconvertion();
 			break;
 		case 8: reverseconversion();
 			break;
