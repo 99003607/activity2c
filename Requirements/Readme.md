@@ -22,7 +22,7 @@ Our product is a calculator which has not only the basic arithmetic capabilites 
 - Cannot be compared with the latest calculators that have spreadsheets, graphs etc.
 
 
-# 4W1H
+# 4W and 1H
 
 - What:  
   Our product is a portable calculating device used for computations like addition,subtraction etc. along with complex computations like logarithm, exponential,     trigonometry etc.
