@@ -2,10 +2,10 @@
 
 | ID  | Description  | Pre-Condition | Expected Input | Expected Output  | Actual Output |
 |-----|--------------|---------------|----------------|------------------|---------------|
-| HL2\_L1\_1 | Working of function Mean | Operand must be real number | 11,21 | 16 |     |
-
-| HL2\_L1\_2 | Working of function Sum | Operand must be real number | 15,25 | 40 |      |
-
+| HL2\_L1\_1 | Working of function Mean | Operand must be real number | 11,21 | 16 |
+ |
+| HL2\_L1\_2 | Working of function Sum | Operand must be real number | 15,25 | 40 |
+ |
 | HL2\_L2\_1 | Working of function Standard deviation | Operand must be real number | 10,12 | 1 |
  |
 | HL2\_L2\_2 | Working of function Variance | Operand must be real number | 25,65 | 400 |
