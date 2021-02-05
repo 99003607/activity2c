@@ -10,5 +10,13 @@
 |     |              |               |                |                  |               |
 |     |              |               |                |                  |               |
 |     |              |               |                |                  |               |
+| HL6_L1_1    |      Finding roots of equation with Discriminant =0        |       a,b,c are real numbers        |        3 float operands        |         The two roots of the equation which are real and equal         |               |
+|     |              |               |                |                  |               |
+|     |              |               |                |                  |               |
+|     |              |               |                |                  |               |
+|     |              |               |                |                  |               |
+|     |              |               |                |                  |               |
+|     |              |               |                |                  |               |
+|     |              |               |                |                  |               |
 |     |              |               |                |                  |               |
 
