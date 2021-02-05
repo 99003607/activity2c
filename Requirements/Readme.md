@@ -17,13 +17,13 @@ To develop a scientific calculator which has not only the arithmetic functionali
 ### High LevelRequirements  
 
 |  ID |  Description |
-|---|---|
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
+| --- | --- |
+| HL1 | Arithmetic Functions |
+| HL2 | Statistical Function |
+| HL3 | Trigonometric Functions |
+| HL4 | Conversion Functions |
+| HL5 | Logical Functions |
+| HL6 | Quadratic Functions |
+| HL7 | Base Conversions |
+| HL8 | Matrix Functions |
+| HL9 | Exponential Functions |
