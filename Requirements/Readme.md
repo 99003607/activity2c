@@ -12,3 +12,18 @@ To develop a scientific calculator which has not only the arithmetic functionali
   - Later in 1972, the first pocket calculator came intopicture.
   - Nowadays, we can see that more than physical calculators people prefer the used of onlinecalculators.
 - COSTING: Most of the physical calculators are costly however this project would reduce the cost to a huge extent as it is free to use.
+
+
+### High LevelRequirements  
+
+|  ID |  Description |
+|---|---|
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
