@@ -70,10 +70,14 @@ To develop a scientific calculator which has not only the arithmetic functionali
 | HL4_L11 | kilogram to gram |
 | HL6_L1 | Qudratic equations  |
 | HL6_L2 | logic AND |
-| HL6_L1 | logic OR  |
-| HL6_L1 | logic NOT  |
-| HL6_L1 | logic XOR  |
-| HL6_L1 | logic XNOR  |
+| HL6_L3 | logic OR  |
+| HL6_L4 | logic NOT  |
+| HL6_L5 | logic XOR  |
+| HL6_L6 | logic XNOR  |
+| HL6_L7 | null matrix |
+| HL6_L1 | symmetric matrix  |
+| HL6_L1 | diognal matrix  |
+
 
 
 
