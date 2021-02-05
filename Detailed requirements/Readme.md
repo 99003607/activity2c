@@ -34,16 +34,12 @@
 | HL4_L9 | kelvin to celcius |
 | HL4_L10 | gram to kilogram |
 | HL4_L11 | kilogram to gram |
-| HL6_L1 | Qudratic equations  |
-| HL6_L2 | logic AND |
-| HL6_L3 | logic OR  |
-| HL6_L4 | logic NOT  |
-| HL6_L5 | logic XOR  |
-| HL6_L6 | logic XNOR  |
-| HL6_L7 | null matrix |
-| HL6_L1 | symmetric matrix  |
-| HL6_L1 | diognal matrix  |
-| HL6_L1 | row matrix |
+| HL5_L1 | Qudratic equations  |
+| HL6_L1 | logic AND |
+| HL6_L2 | logic OR  |
+| HL6_L3 | logic NOT  |
+| HL6_L4 | logic XOR  |
+| HL6_L5 | logic XNOR  |
 | HL6_L1 | exponentially increasing function|
 | HL6_L1 | exponentially decreasing  function|
 | HL6_L1 | quadratic  function|
