@@ -7,16 +7,13 @@
 | HL2\_L1\_3 | Working of function Standard deviation | Operand must be real number | 10,12 | 1 |  |
 | HL2\_L1\_4 | Working of function Variance | Operand must be real number | 25,65 | 400 ||
 | HL4_L1_1    |   Centimeter to meter           |    Choose CM TO M from all the options           |       One float operand         |          Returns value of meters in float        |               |
-|  HL4_L2_2   |       meter to Kilometer       |       Choose M TO CM from all the options           |      One float operand           |         Returns value of Kilometers in float         |               |
-|  Hl4_L3_2   |    Centimeter to inch          |        Choose CM TO I from all the options       |        One float operand        |         Returns value of inch in float          |               |
+|  Hl4_L3_2   |   Inch  to Centimeter          |        Choose I TO CM from all the options       |        One float operand        |         Returns value of cm in float          |               |
 |  HL4_L4_3   |       Celcius to farenheit       |      Choose C TO F from all the options          |      One float operand           |        Returns value of farenheit in float          |               |
-|  HL4_L5_4   |        Celcius to kelvin      |       Choose C TO F from all the options        |         One float operand       |                  |               |
 |  HL4_L6_5   |      farenheit to celcius        |        Choose F TO C from all the options       |        One float operand        |                  |               |
-| HL4_L7_6    |        kelvin to celcius      |      Choose K TO C from all the options         |       One float operand          |                  |               |
 |  HL4_L8_7   |       gram to kilogram       |       Choose G TO KG from all the options        |        One float operand        |                  |               |
-|  HL4_L9_8   |       kilogram to gram      |       Choose KG TO G from all the options        |        One float operand        |                  |               |
+|  HL4_L9_8   |       miligram to gram      |       Choose mG TO G from all the options        |        One float operand        |                  |               |
 |  HL4_L10_9   |       seconds to minute      |       Choose S TO M from all the options        |        One float operand        |                  |               |
-|  HL4_L11_10   |       minutes to hours       |       Choose M TO H from all the options        |        One float operand        |                  |               |
+|  HL4_L11_10   |       minutes to seconds       |       Choose M TO S from all the options        |        One float operand        |                  |               |
 | HL6_L1_1    |      Finding roots of equation with Discriminant =0        |       a,b,c are real numbers        |        3 float operands        |         The two roots of the equation which are real and equal         |               |
 | HL6_L1_2    |    Finding roots of equation with Discriminant < 0          |       a,b,c are real numbers        |       3 float operands         |        The two roots of the equation which are complex and different          |               |
 | HL6_L1_3    |     Finding roots of equation with Discriminant > 0         |      a,b,c are real numbers           |      3 float operands            |      The two roots of the equation which are real and different            |               |
