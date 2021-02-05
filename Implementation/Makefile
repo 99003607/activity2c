@@ -6,7 +6,10 @@ BUILD = build
 
 # All source code files
 SRC = main.c\
-src/unitconversion.c
+src/unitconversion.c\
+src/exponential.c\
+src/quadratic.c
+
 
 # All test source files
 TEST_SRC = src/operations.c\
