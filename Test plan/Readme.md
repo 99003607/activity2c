@@ -29,12 +29,5 @@
 | HL9_L1_4 | Exponential Function (when input is invalid)  | If input (X) is complex. | X= 2+3i | Y = -1 |   |
 |     |              |               |                |                  |               |
 |     |              |               |                |                  |               |
-| HL5_L1_1 | Logical AND | Choose AND operation from all the options |Two int operands| Returns AND of two values in int |    |
-| HL5_L1_2 | Logical AND  |Choose AND operation from all the options | In two int any one operand is invalid | Returns error as another operand is invalid |   |
-| HL5_L2_1 | Logical OR | Choose OR operation from all the options |Two int operands| Returns OR of two values in int |    |
-| HL5_L1_1 | Logical OR | Choose OR operation from all the options |In two int any one operand is invalid | Returns error as another operand is invalid |    |
-
-
-
 
 
