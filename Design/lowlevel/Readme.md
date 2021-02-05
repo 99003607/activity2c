@@ -35,8 +35,7 @@ low level requirements readme
 ![basic operation](expo_structural.png )
 
 
-<h2>Use case diagram</h2>boolean.png
-boolean.png
+
 ![basic operation](expobehavioral.png )
 
 
@@ -50,7 +49,7 @@ boolean.png
 <h2>Use case diagram</h2>
 
 ![basic operation](umlstatsiticsbehav.jpeg)
-boolean.png
+
 
 <h1>Unit conversions</h1>
 <h2>Class diagram</h2>
@@ -86,3 +85,15 @@ boolean.png
 <h2>Class diagram and Behavioural diagram </h2>
 
 ![basic operation](boolean.png )
+
+<h1>Trignometric equations</h1>
+<h2>Class diagram</h2>
+
+![basic operation]( )
+
+
+<h2>Use case diagram</h2>
+
+![basic operation]()
+
+
