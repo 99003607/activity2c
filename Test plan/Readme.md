@@ -25,3 +25,4 @@
 | 2. | Exponential Function | If input (X) is equal to 0. | X = 0 | Y = e^(0) = 1 |   |
 | 3. | Exponential Function | If input (X) is greater than 0 | X = 2 | Y = e^(2) = 7.389 |   |
 | 4. | Exponential Function | If input (X) is complex. | X= 2+3i | Y = -1 |   |
+| HL2\_L1\_1 | Working of function Mean | Operand must be real number | 11,21 | 16 |  |
