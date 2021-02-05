@@ -22,7 +22,7 @@ low level requirements readme
 <h2>Class diagram</h2>
 
 ![basic operation](classdiagram.JPG)
-unitconvertion_structural.png
+
 
 <h2>Use case diagram</h2>
 
@@ -35,7 +35,7 @@ unitconvertion_structural.png
 ![basic operation](expo_structural.png )
 
 
-<h2>Use case diagram</h2>
+<h2>Use case diagram</h2>boolean.png
 
 ![basic operation](expobehavioral.png )
 
@@ -50,7 +50,7 @@ unitconvertion_structural.png
 <h2>Use case diagram</h2>
 
 ![basic operation](umlstatsiticsbehav.jpeg)
-
+boolean.png
 
 <h1>Unit conversions</h1>
 <h2>Class diagram</h2>
