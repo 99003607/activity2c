@@ -4,7 +4,7 @@
 # Product Description:
 Our product is a calculator which has not only the basic arithmetic capabilites but there are also other functions such as special functions (i.e., square root, factorial, prime, etc.), trigonometric functions,conversion functions (i.e., meter to centimeter, etc.),Statistical functions(mean,median,variance,mode) and Boolean functions(AND, OR, NOT, XOR, XNOR).
 
-# SWOT Analysis
+# SWOT Analysis:
 ![SWOT](swot.png)
 # Strengths:
 - Can be used for both simple and complex calculations.
@@ -17,7 +17,6 @@ Our product is a calculator which has not only the basic arithmetic capabilites 
 
 # Opportunities:
 - Must have device for students for its high functionality and low cost.
-- Program for Decimal numbers computation is needed.
 
 # threats:
 - Cannot be comopared with the latest calculators that have spreadsheets, graphs etc.
@@ -25,15 +24,20 @@ Our product is a calculator which has not only the basic arithmetic capabilites 
 
 # 4W1H
 
-- What: Our product is a portable calculating device used for computations like addition,subtraction etc.along with complex computations like logarithm, exponential, trigonometric etc.,
+- What:  
+  Our product is a portable calculating device used for computations like addition,subtraction etc. along with complex computations like logarithm, exponential,     trigonometry etc.
 
-- Why: To reduce time consumption and simplify calculations.
+- Why:  
+  To reduce time consumption and simplify calculations.
 
-- When: It is used when we required computations with functions which cannot be easily defined.
+- When:  
+  It is used when we required computations with functions which cannot be easily defined.
 
-- Where: Complex, complicated computation is needed in in fields of aerospace, mathematics, engineeringetc.,
+- Where:  
+  Complex and complicated computation is needed in the fields of Finance,Mathematics,Engineering etc.
 
-- How: Scientific calculator can be used with the numbers along with defined functions required for the computation.
+- How:  
+  Our product can be used with limited inputs to perform calculations.It has pre-defined functions that can be used for computing complex problems.
 ![4W1H](w4.png)
 
 
