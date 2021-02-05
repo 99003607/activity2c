@@ -21,8 +21,7 @@
 | HL7_L1_1     |   work for function dec to binary          |      operand should be int         |      121          |        1111001          |               |
 | HL7_L1_2|     work for function dec to octal           |      operand should be int           |        121          |        71       |
 | HL7_L1_3|       work for function dec to hexadecimal           |      operand should be int            |       121         |         79         |               |
-|   |                |                  |               |                  |               |
-|HL3_L1_1|       calculating trignometric operations           |      operand should be int            |     one float or integer operand        |          operand can be integer and float  or no value      
-|HL3_L1_2|       calculating trignometric operations           |      operand should be int            |       one float or integer operand        |   operand can be integer and float   or no value         
-|HL3_L1_3|       calculating trignometric operations          |      operand should be int            |       one float or integer operand        |         operand can be integer and float   or no value              |                   |              |               |                |                  |               |
-|     |              |                |               |                  |               |              |                             |
+| HL91. | Exponential Function | If input (X) is less than 0. | X = -1 | Y = e^(-1) = 0.367 |    |
+| 2. | Exponential Function | If input (X) is equal to 0. | X = 0 | Y = e^(0) = 1 |   |
+| 3. | Exponential Function | If input (X) is greater than 0 | X = 2 | Y = e^(2) = 7.389 |   |
+| 4. | Exponential Function | If input (X) is complex. | X= 2+3i | Y = -1 |   |
