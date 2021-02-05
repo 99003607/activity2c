@@ -37,7 +37,7 @@ expobehavioral.png
 
 <h2>Use case diagram</h2>
 
-![basic operation](nexpobehavioral.png )
+![basic operation](expobehavioral.png )
 
 
 
