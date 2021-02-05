@@ -52,5 +52,17 @@ low level requirements readme
 ![basic operation](umlstatsiticsbehav.jpeg)
 
 
+<h1>Unit conversions</h1>
+<h2>Class diagram</h2>
+
+![basic operation](unitconvertion_structural.png )
+
+
+<h2>Use case diagram</h2>
+
+![basic operation](unitconversions_behavirol.svg)
+
+
+
 
 
