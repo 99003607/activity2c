@@ -57,4 +57,18 @@ To develop a scientific calculator which has not only the arithmetic functionali
 | HL1\_L2 | Subtract |
 | HL1\_L3 | Multiply |
 | HL1\_L4 | Divide |
+| HL4_L1 | Centimeter to meter |
+| HL4_L2 | Centimeter to Kilometer |
+| HL4_L3 | meter to Centimeter |
+| HL4_L4 | meter to Kilometer |
+| HL4_L5 | Centimeter to inch |
+| HL4_L6 | Celcius to farenheit |
+| HL4_L7 | Celcius to kelvin |
+| HL4_L8 | farenheit to celcius |
+| HL4_L9 | kelvin to celcius |
+| HL4_L10 | gram to kilogram |
+| HL4_L11 | kilogram to gram |
+| HL6_L1 | Qudratic equations  |
+
+
 
