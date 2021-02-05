@@ -9,12 +9,5 @@ low level requirements readme
 
 
 ![basic operation](UML-class_basic.png )
-
-
-
-<h2>Use Case diagram</h2>
-
-
-
-![basic operation](UML-use case diagram.png)
+![basi operation](UML-use case diagram.png )
 
