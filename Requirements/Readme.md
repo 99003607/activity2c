@@ -19,7 +19,7 @@ Our product is a calculator which has not only the basic arithmetic capabilites 
 - Must have device for students for its high functionality and low cost.
 
 # threats:
-- Cannot be comopared with the latest calculators that have spreadsheets, graphs etc.
+- Cannot be compared with the latest calculators that have spreadsheets, graphs etc.
 
 
 # 4W1H
