@@ -91,7 +91,7 @@ Our product is a calculator which has not only the basic arithmetic capabilites 
 | HL6_L1 | quadratic  function|
 | HL6_L1 | satistics-mean|
 | HL6_L1 | satistics-mode|
-| HL6_L1 | satistics-|
+| HL6_L1 | satistics-median|
 
 
 
