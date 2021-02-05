@@ -80,6 +80,10 @@ To develop a scientific calculator which has not only the arithmetic functionali
 | HL6_L1 | satistics-mean|
 | HL6_L1 | satistics-mode|
 | HL6_L1 | satistics-medain|
+| HL9_L1 | Increasing Exponential function |
+| HL9_L2 | Exponential function (input = 0) |
+| HL9_L3 | Decreasing Exponential function |
+| HL9_L4 | Exponential function (input = complex number) |
 
 
 
