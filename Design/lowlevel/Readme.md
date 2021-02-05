@@ -10,7 +10,7 @@ low level requirements readme
 
 ![basic operation](UML-class_basic.png )
 
-expobehavioral.png
+
 
 <h2>Use case diagram</h2>
 
@@ -24,7 +24,7 @@ expobehavioral.png
 ![basic operation](classdiagram.JPG)
 
 
-<h2>Use case diagram</h2>expobehavioral.png
+<h2>Use case diagram</h2>
 
 ![basic operation](newumlusd.JPG )
 
@@ -38,6 +38,19 @@ expobehavioral.png
 <h2>Use case diagram</h2>
 
 ![basic operation](expobehavioral.png )
+
+
+
+<h1>Statistics operations</h1>
+<h2>Class diagram</h2>
+
+![basic operation](umlstatisrticsstruc.jpeg )
+
+
+<h2>Use case diagram</h2>
+
+![basic operation](umlstatsiticsbehav.jpeg)
+
 
 
 
