@@ -22,7 +22,7 @@ low level requirements readme
 <h2>Class diagram</h2>
 
 ![basic operation](classdiagram.JPG)
-
+unitconvertion_structural.png
 
 <h2>Use case diagram</h2>
 
@@ -61,6 +61,27 @@ low level requirements readme
 <h2>Use case diagram</h2>
 
 ![basic operation](unitconversions_behavirol.svg)
+
+
+
+<h1>Quadratic equations</h1>
+<h2>Class diagram</h2>
+
+![basic operation](StructuralQuadratic.png )
+
+
+<h2>Use case diagram</h2>
+
+![basic operation](behavioralquadratic.png )
+
+
+
+<h1>Reverse conversion</h1>
+<h2>Class diagram and Behavioural diagram </h2>
+
+![basic operation](con.png )
+
+
 
 
 
