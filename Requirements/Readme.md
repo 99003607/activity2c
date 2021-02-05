@@ -27,3 +27,16 @@ To develop a scientific calculator which has not only the arithmetic functionali
 | HL7 | Base Conversions |
 | HL8 | Matrix Functions |
 | HL9 | Exponential Functions |
+
+# 4W1H
+
+- What: Our product is a portable calculating device used for computations like addition,subtraction etc.along with complex computations like logarithm, exponential, trigonometric etc.,
+
+- Why: To reduce time consumption required to do computationsmanually.
+
+- When: It is used when we required computations with functions which cannot be easilydefined.
+
+- Where: Complex, complicated computation is needed in in fields of aerospace, mathematics, engineeringetc.,
+
+- How: Scientific calculator can be used with the numbers along with defined functions required for the computation.
+![4W1H](swot.png)
