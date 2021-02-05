@@ -22,7 +22,7 @@
 | HL7_L1_2|     work for function dec to octal           |      operand should be int           |        121          |        71       |
 | HL7_L1_3|       work for function dec to hexadecimal           |      operand should be int            |       121         |         79         |               |
 |   |                |                  |               |                  |               |
-|HL3_L1_2|       calculating trignometric operations           |      operand should be int            |     one float or integer operand        |          operand can be integer and float        
-|HL3_L1_2|       calculating trignometric operations           |      operand should be int            |       one float or integer operand        |   operand can be integer and float             
-|HL3_L1_3|       calculating trignometric operations          |      operand should be int            |       one float or integer operand        |         operand can be integer and float                 |                   |              |               |                |                  |               |
+|HL3_L1_1|       calculating trignometric operations           |      operand should be int            |     one float or integer operand        |          operand can be integer and float  or no value      
+|HL3_L1_2|       calculating trignometric operations           |      operand should be int            |       one float or integer operand        |   operand can be integer and float   or no value         
+|HL3_L1_3|       calculating trignometric operations          |      operand should be int            |       one float or integer operand        |         operand can be integer and float   or no value              |                   |              |               |                |                  |               |
 |     |              |                |               |                  |               |              |                             |
