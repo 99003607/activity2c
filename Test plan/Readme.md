@@ -30,8 +30,19 @@
 |     |              |               |                |                  |               |
 |     |              |               |                |                  |               |
 | HL5_L1_1 | Logical AND | Choose AND operation from all the options |Two int operands| Returns AND of two values in int |    |
-| HL3_L1_1    |      calculations trignometric operations for sine        |       operand should be int        |        1 float or int value       |        operand can be integer or float or no value  |               |
-| HL3_L1_2    |      calculations trignometric operations for cosine       |       operand should be int        |        1 float or int value       |        operand can be integer or float or no value  |
-| HL3_L1_3    |      calculations trignometric operations  for tangent      |       operand should be int        |        1 float or int value       |        operand can be integer or float or no value  |
+| HL5_L1_2 | Logical AND  |Choose AND operation from all the options | In two int any one operand is invalid | Returns error as another operand is invalid |   |
+| HL5_L2_1 | Logical OR | Choose OR operation from all the options |Two int operands| Returns OR of two values in int |    |
+| HL5_L2_2 | Logical OR | Choose OR operation from all the options |In two int any one operand is invalid | Returns error as another operand is invalid |    |
+| HL5_L3_1 | Logical NOT | Choose NOT operation from all the options |int operand | Returns NOT value in int |    |
+| HL5_L3_2 | Logical NOT | Choose NOT operation from all the options |Invalid int operands | Returns error as operand is invalid |    |
+| HL5_L4_1 | Logical NAND | Choose NAND operation from all the options | Two int operands | Returns NAND of two values in int |   |
+| HL5_L4_2 | Logical NAND | Choose NAND operation from all the options | In two int any one operand is invalid | Returns error as another operand is invalid |   |
+
+
+
+
+
+
+
 
 
