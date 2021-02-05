@@ -89,11 +89,11 @@ low level requirements readme
 <h1>Trignometric equations</h1>
 <h2>Class diagram</h2>
 
-![basic operation]( )
+![basic operation](CLASS_trignometry.png)
 
 
 <h2>Use case diagram</h2>
 
-![basic operation]()
+![basic operation](usecase_trignometry.png)
 
 
