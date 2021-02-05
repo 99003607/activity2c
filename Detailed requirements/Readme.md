@@ -34,14 +34,18 @@
 | HL2_L9 | kelvin to celcius |
 | HL2_L10 | gram to kilogram |
 | HL2_L11 | kilogram to gram |
-| HL3_L1 | Qudratic equations  |
-| HL4_L1 | Logical AND |
-| HL4_L2 | Logical OR |
-| HL4_L3 | Logical NOT|
-| HL4_L4 | Logical XOR|
-| HL4_L1 | Logical XNOR|
-| HL5_L1 | exponential increasing function |
-| HL5_L2 | exponential decresing function  |
+| HL6_L1 | Qudratic equations  |
+| HL5_L1 | Logical AND |
+| HL5_L2 | Logical OR |
+| HL5_L3 | Logical NOT|
+| HL5_L4 | Logical XOR|
+| HL5_L1 | Logical XNOR|
+| HL9_L1 | exponential decresing function |
+| HL9_L2 | exponential function for the input x=0  |
+| HL9_L3 | exponential increasing function |
+| HL9_L4 | exponential function for the invalid inputs |
+
+
 
 
 
