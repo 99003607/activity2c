@@ -17,7 +17,7 @@ To develop a scientific calculator which has not only the arithmetic functionali
   - Nowadays, we can see that more than physical calculators people prefer the used of onlinecalculators.
 - COSTING: Most of the physical calculators are costly however this project would reduce the cost to a huge extent as it is free to use.
 
-
+![4W1H](costandage.png)
 
 # 4W1H
 
