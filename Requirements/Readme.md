@@ -17,6 +17,7 @@ Our product is a calculator which has not only the basic arithmetic capabilites 
 
 # Opportunities:
 - Must have device for students for its high functionality and low cost.
+-Program for Decimal numbers computation is needed.
 
 # threats:
 - Cannot be comopared with the latest calculators that have spreadsheets, graphs etc.
