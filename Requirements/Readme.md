@@ -1,3 +1,7 @@
+# Product description  
+Our calculator performs the basic functions and complex calculations such as trignometry,unit conversions,statistical calculation,quadratic,matrix,base conversions,logarithemic and exponential functions. our product is user friendly,economical and portable.
+
+
 # Requirements of the project
 
   
@@ -14,19 +18,6 @@ To develop a scientific calculator which has not only the arithmetic functionali
 - COSTING: Most of the physical calculators are costly however this project would reduce the cost to a huge extent as it is free to use.
 
 
-### High LevelRequirements  
-
-|  ID |  Description |
-| --- | --- |
-| HL1 | Arithmetic Functions |
-| HL2 | Statistical Function |
-| HL3 | Trigonometric Functions |
-| HL4 | Conversion Functions |
-| HL5 | Logical Functions |
-| HL6 | Algebraic Functions |
-| HL7 | Base Conversions |
-| HL8 | Matrix Functions |
-| HL9 | Exponential Functions |
 
 # 4W1H
 
@@ -40,3 +31,30 @@ To develop a scientific calculator which has not only the arithmetic functionali
 
 - How: Scientific calculator can be used with the numbers along with defined functions required for the computation.
 ![4W1H](w4.png)
+
+
+
+### High LevelRequirements  
+
+| **ID** | **Description** |
+| --- | --- |
+| HL1 | Arithmetic Functions |
+| HL2 | Statistical Function |
+| HL3 | Trigonometric Functions |
+| HL4 | Conversion Functions |
+| HL5 | Logical Functions |
+| HL6 | Algebraic Functions |
+| HL7 | Base Conversions |
+| HL8 | Matrix Functions |
+| HL9 | Exponential Functions |
+
+### Low LevelRequirements
+
+
+| **ID** | **Description** |
+| --- | --- |
+| HL1\_L1 | Add |
+| HL1\_L2 | Subtract |
+| HL1\_L3 | Multiply |
+| HL1\_L4 | Divide |
+
