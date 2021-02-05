@@ -10,4 +10,4 @@
 - COSTING: 
   -Our product cost is in the low-mid ranges. It has high performance and low cost.
     
-![4W1H](w4.png)
+![4W1H](costandage.png)
