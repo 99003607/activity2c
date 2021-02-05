@@ -17,11 +17,13 @@
 | HL6_L1_1    |      Finding roots of equation with Discriminant =0        |       a,b,c are real numbers        |        3 float operands        |         The two roots of the equation which are real and equal         |               |
 | HL6_L1_2    |    Finding roots of equation with Discriminant < 0          |       a,b,c are real numbers        |       3 float operands         |        The two roots of the equation which are complex and different          |               |
 | HL6_L1_3    |     Finding roots of equation with Discriminant > 0         |      a,b,c are real numbers           |      3 float operands            |      The two roots of the equation which are real and different            |               |
-|     |              |               |                |                  |               |
 | HL7_L1_1     |   work for function dec to binary          |      operand should be int         |      121          |        1111001          |               |
 | HL7_L1_2|     work for function dec to octal           |      operand should be int           |        121          |        71       |
-| HL7_L1_3|       work for function dec to hexadecimal           |      operand should be int            |       121         |         79         |               |
-| HL91. | Exponential Function | If input (X) is less than 0. | X = -1 | Y = e^(-1) = 0.367 |    |
-| 2. | Exponential Function | If input (X) is equal to 0. | X = 0 | Y = e^(0) = 1 |   |
-| 3. | Exponential Function | If input (X) is greater than 0 | X = 2 | Y = e^(2) = 7.389 |   |
-| 4. | Exponential Function | If input (X) is complex. | X= 2+3i | Y = -1 |   |
+| HL7_L1_3|       work for function dec to hexadecimal           |      operand should be int            |       121         |         79         |            |
+|     |              |               |                |                  |               |
+|     |              |               |                |                  |               |
+|     |              |               |                |                  |               |
+| HL9_L1_1 | Exponential Function (decreasing) | If input (X) is less than 0. | X = -1 | Y = e^(-1) = 0.367 |    |
+| HL9_L1_2 | Exponential Function (when input is 0) | If input (X) is equal to 0. | X = 0 | Y = e^(0) = 1 |   |
+| HL9_L1_3 | Exponential Function (increasing) | If input (X) is greater than 0 | X = 2 | Y = e^(2) = 7.389 |   |
+| HL9_L1_4 | Exponential Function (when input is invalid)  | If input (X) is complex. | X= 2+3i | Y = -1 |   |
