@@ -1,4 +1,4 @@
-name: C-BUILD
+name: C_BUILD
 
 on:
   push:
