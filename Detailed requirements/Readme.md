@@ -35,4 +35,13 @@
 | HL2_L10 | gram to kilogram |
 | HL2_L11 | kilogram to gram |
 | HL3_L1 | Qudratic equations  |
+| HL4_L1 | Logical AND |
+| HL4_L2 | Logical OR |
+| HL4_L3 | Logical NOT|
+| HL4_L4 | Logical XOR|
+| HL4_L1 | Logical XNOR|
+| HL5_L1 | exponential increasing function |
+| HL5_L2 | exponential decresing function  |
+
+
 
