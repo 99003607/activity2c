@@ -29,5 +29,9 @@
 | HL9_L1_4 | Exponential Function (when input is invalid)  | If input (X) is complex. | X= 2+3i | Y = -1 |   |
 |     |              |               |                |                  |               |
 |     |              |               |                |                  |               |
+| HL5_L1_1 | Logical AND | Choose AND operation from all the options |Two int operands| Returns AND of two values in int |    |
+| HL3_L1_1    |      calculations trignometric operations for sine        |       operand should be int        |        1 float or int value       |        operand can be integer or float or no value  |               |
+| HL3_L1_2    |      calculations trignometric operations for cosine       |       operand should be int        |        1 float or int value       |        operand can be integer or float or no value  |
+| HL3_L1_3    |      calculations trignometric operations  for tangent      |       operand should be int        |        1 float or int value       |        operand can be integer or float or no value  |
 
 
