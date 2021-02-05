@@ -1,6 +1,6 @@
 # Requirements of the project
 
-  1.
+  
 # Requirements
 
 To develop a scientific calculator which has not only the arithmetic functionality but also there are other functionalities such as special functions (i.e., square root, factorial, prime, etc.), trigonometric functions and conversion functions (i.e., meter to centimeter, etc.)
