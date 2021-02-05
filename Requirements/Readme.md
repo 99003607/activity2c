@@ -69,6 +69,13 @@ To develop a scientific calculator which has not only the arithmetic functionali
 | HL4_L10 | gram to kilogram |
 | HL4_L11 | kilogram to gram |
 | HL6_L1 | Qudratic equations  |
+| HL6_L2 | logic AND |
+| HL6_L1 | logic OR  |
+| HL6_L1 | logic NOT  |
+| HL6_L1 | logic XOR  |
+| HL6_L1 | logic XNOR  |
+
+
 
 
 
