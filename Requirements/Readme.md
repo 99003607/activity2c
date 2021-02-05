@@ -39,4 +39,4 @@ To develop a scientific calculator which has not only the arithmetic functionali
 - Where: Complex, complicated computation is needed in in fields of aerospace, mathematics, engineeringetc.,
 
 - How: Scientific calculator can be used with the numbers along with defined functions required for the computation.
-![4W1H](swot.png)
+![4W1H](w4.png)
