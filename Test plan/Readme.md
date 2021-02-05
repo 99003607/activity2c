@@ -42,7 +42,7 @@
 | HL5_L4_2 | Logical NAND | Choose NAND operation from all the options | In two int any one operand is invalid | Returns error as another operand is invalid |   |
 | HL3_L1_1    |      calculations trignometric operations        |       operand should be int        |        1 float or int value       |        operand can be integer or float or no value  |
 | HL3_L1_2    |      calculations trignometric operations        |       operand should be int        |        1 float or int value       |        operand can be integer or float or no value  |
-| HL3_L1_3    |      calculations trignometric operations        |       operand should be int        |        1 float or int value       |        operand can be integer or float or no value  |
+| HL3_L1_3    |      calculations trignometric operations        |       operand should be int        |        1 float or int value       |        operand can be integer or float or value  |
 
 
 
