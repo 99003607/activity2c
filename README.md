@@ -5,4 +5,4 @@ Our calculator performs the basic functions and complex calculations such as tri
 
 | BUILD  | CPPCHECK  | UNITY  |  GITINSPECTOR |
 |:-:|:-:|:-:|:-:|
-|  ![C-BUILD](https://github.com/99003607/activity2c/workflows/C-BUILD/badge.svg) |  ![cppcheck](https://github.com/99003607/activity2c/workflows/cppcheck/badge.svg) |   |   |
+|  ![C_BUILD](https://github.com/99003607/activity2c/workflows/C_BUILD/badge.svg) |  ![cppcheck](https://github.com/99003607/activity2c/workflows/cppcheck/badge.svg) |   |   |
