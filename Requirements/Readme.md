@@ -3,25 +3,26 @@
   
 # Requirements
 
-To develop a scientific calculator which has not only the arithmetic functionality but also there are other functionalities such as special functions (i.e., square root, factorial, prime, etc.), trigonometric functions and conversion functions (i.e., meter to centimeter, etc.)
+To develop a scientific calculator which has not only the arithmetic functionality but also there are other functionalities such as special functions (i.e., square root, factorial, prime, etc.), trigonometric functions,conversion functions (i.e., meter to centimeter, etc.),Statistical functions(mean,median,variance,mode),Boolean functions(AND, OR, NOT, XOR, XNOR).
 
 **STATE OF ART** :
 
 - AGEING:
-  - The first programmable calculator was given by HP that released in1968.
-  - Later in 1972, the first pocket calculator came intopicture.
-  - Nowadays, we can see that more than physical calculators people prefer the used of onlinecalculators.
-- COSTING: Most of the physical calculators are costly however this project would reduce the cost to a huge extent as it is free to use.
-
+  - The first programmable calculator was given by HP that released in 1968.
+  - Later in 1972, the first pocket calculator came into picture.
+  - Our product will implement a wide range of applications from statistical calculators and scientific calculators
+- COSTING: 
+  -Our product cost is in the low-mid ranges. It has high performance and low cost.
+    
 ![4W1H](costandage.png)
 
 # 4W1H
 
 - What: Our product is a portable calculating device used for computations like addition,subtraction etc.along with complex computations like logarithm, exponential, trigonometric etc.,
 
-- Why: To reduce time consumption required to do computationsmanually.
+- Why: To reduce time consumption and simplify calculations.
 
-- When: It is used when we required computations with functions which cannot be easilydefined.
+- When: It is used when we required computations with functions which cannot be easily defined.
 
 - Where: Complex, complicated computation is needed in in fields of aerospace, mathematics, engineeringetc.,
 
@@ -30,7 +31,7 @@ To develop a scientific calculator which has not only the arithmetic functionali
 
 
 
-### High LevelRequirements  
+### High Level Requirements  
 
 | **ID** | **Description** |
 | --- | --- |
@@ -44,7 +45,7 @@ To develop a scientific calculator which has not only the arithmetic functionali
 | HL8 | Matrix Functions |
 | HL9 | Exponential Functions |
 
-### Low LevelRequirements
+### Low Level Requirements
 
 
 | **ID** | **Description** |
@@ -80,10 +81,6 @@ To develop a scientific calculator which has not only the arithmetic functionali
 | HL6_L1 | satistics-mean|
 | HL6_L1 | satistics-mode|
 | HL6_L1 | satistics-medain|
-| HL9_L1 | Increasing Exponential function |
-| HL9_L2 | Exponential function (input = 0) |
-| HL9_L3 | Decreasing Exponential function |
-| HL9_L4 | Exponential function (invalid input) |
 
 
 
