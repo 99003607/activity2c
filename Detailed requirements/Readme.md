@@ -40,9 +40,13 @@
 | HL6_L3 | logic NOT  |
 | HL6_L4 | logic XOR  |
 | HL6_L5 | logic XNOR  |
-| HL6_L1 | exponentially increasing function|
-| HL6_L1 | exponentially decreasing  function|
-| HL6_L1 | quadratic  function|
-| HL6_L1 | satistics-mean|
-| HL6_L1 | satistics-mode|
-| HL6_L1 | satistics-medain|
+| HL7_L1 | exponentially increasing function|
+| HL7_L1 | exponentially decreasing  function|
+| HL8_L1 | satistics-mean|
+| HL8_L2 | satistics-mode|
+| HL8_L3 | satistics-medain|
+| HL9_L1 | sine |
+| HL9_L2 | cosine |
+| HL9_L1 | tangent |
+
+
