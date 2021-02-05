@@ -23,17 +23,17 @@
 | HL1_L2 | Subtract |
 | HL1_L3 | Multiply |
 | HL1_L4 | Divide |
-| HL2_L1 | Centimeter to meter |
-| HL2_L2 | Centimeter to Kilometer |
-| HL2_L3 | meter to Centimeter |
-| HL2_L4 | meter to Kilometer |
-| HL2_L5 | Centimeter to inch |
-| HL2_L6 | Celcius to farenheit |
-| HL2_L7 | Celcius to kelvin |
-| HL2_L8 | farenheit to celcius |
-| HL2_L9 | kelvin to celcius |
-| HL2_L10 | gram to kilogram |
-| HL2_L11 | kilogram to gram |
+| HL4_L1 | Centimeter to meter |
+| HL4_L2 | meter to Kilometer |
+| HL4_L3 | Centimeter to inch |
+| HL4_L4 | Celcius to farenheit |
+| HL4_L5 | Celcius to kelvin |
+| HL4_L6 | farenheit to celcius |
+| HL4_L7 | kelvin to celcius |
+| HL4_L8 | gram to kilogram |
+| HL4_L9 | kilogram to gram |
+| HL4_L10 | seconds to minute |
+| HL4_L11 | minutes to hours |
 | HL6_L1 | Qudratic equations  |
 | HL5_L1 | Logical AND |
 | HL5_L2 | Logical OR |
