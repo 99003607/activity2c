@@ -23,7 +23,7 @@ To develop a scientific calculator which has not only the arithmetic functionali
 | HL3 | Trigonometric Functions |
 | HL4 | Conversion Functions |
 | HL5 | Logical Functions |
-| HL6 | Quadratic Functions |
+| HL6 | Algebraic Functions |
 | HL7 | Base Conversions |
 | HL8 | Matrix Functions |
 | HL9 | Exponential Functions |
