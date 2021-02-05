@@ -44,6 +44,12 @@
 | HL9_L2 | exponential function for the input x=0  |
 | HL9_L3 | exponential increasing function |
 | HL9_L4 | exponential function for the invalid inputs |
+| HL3_L1 | sine function  |
+| HL3_L2 | cosine function  |
+| HL3_L3 | tangent function |
+
+
+
 
 
 
