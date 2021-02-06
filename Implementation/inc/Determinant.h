@@ -3,6 +3,6 @@
 
   //Function Declaration
   void quadratic();
-  float Determinant(float x, float y, float z);
+  float Deter(float x, float y, float z);
   float getroots(float det,float x,float y,float z);
 #endif

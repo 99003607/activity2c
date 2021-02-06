@@ -1,4 +1,5 @@
-#include<stdio.h>
+#include <math.h>
+#include <stdio.h>
 void reverseconversion()
 {
     long long n;
@@ -47,7 +48,6 @@ void reverseconversion()
         i++;
     }
     printf("\nEquivalent Decimal Value = %d", decnum);
-    getch();
     break;
      
      case 3:
@@ -62,6 +62,7 @@ void reverseconversion()
     printf("invalid selection\n");
     goto back;
     }
+
 }
 
 int convert(long long n) 
