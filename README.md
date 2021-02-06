@@ -3,6 +3,6 @@ Our calculator performs the basic functions and complex calculations such as tri
 
 ## Status of the badges
 
-| BUILD  | CPPCHECK  | UNITY  |  GITINSPECTOR |
-|:-:|:-:|:-:|:-:|
-|  ![C_BUILD](https://github.com/99003607/activity2c/workflows/C_BUILD/badge.svg) |  ![cppcheck](https://github.com/99003607/activity2c/workflows/cppcheck/badge.svg) |   |   |
+| BUILD  | CPPCHECK  | UNITY  |
+|:-:|:-:|:-:|
+|  ![C_BUILD](https://github.com/99003607/activity2c/workflows/C_BUILD/badge.svg) |  ![cppcheck](https://github.com/99003607/activity2c/workflows/cppcheck/badge.svg) |   |
