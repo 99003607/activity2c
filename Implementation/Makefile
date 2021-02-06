@@ -10,11 +10,11 @@ src/unitconversion.c\
 src/exponential.c\
 src/quadratic.c\
 src/baseconversion.c\
-src\calculator_operations.c\
-src\logicalfunctions.c\
-src\reverse.c\
-src\statitics.c\
-src\trignometry.c
+src/calculator_operations.c\
+src/logicalfunctions.c\
+src/reverse.c\
+src/statitics.c\
+src/trignometry.c
 
 
 # All test source files
