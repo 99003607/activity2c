@@ -19,7 +19,7 @@ int main()
 	scanf("%d",&choice);
 	switch(choice)
 	{
-		case 1: baseconversion();
+		case 1: basicoperation();
 				break;
 		case 2: boolean();
 			break;
