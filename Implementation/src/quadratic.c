@@ -1,22 +1,29 @@
 #include <Determinant.h>
 #include<stdio.h>
 #include<math.h>
+float Determinant(float x,float y,float z)
+{
+//Determinant to find the nature of the roots
+det = y * y - 4 * x * z;
+return det
 
+}
 void quadratic()
 {
-float x,y,z,Determinant,root1,root2,real,img;
+float x,y,z,det,root1,root2,real,img;
 printf("\n Enter the value of coefficient x, y and z: \n ");
 scanf("%f %f %f", &x, &y, &z);
-//Determinant to find the nature of the roots
-Determinant = y * y - 4 * x * z;
+
+det=Determinant(x,y,z);
+
 //Defining the condition for real and equal roots
-if(Determinant=0)
+if(det=0)
  {  
         root1 = root2 = -y / (2 * x); // both roots are equal;  
         printf("\n Value of root1 = %.2f and Value of root2 = %.2f", root1, root2);  
  }  
 //Defining the condition for complex and different roots
-else if(Determinant<0) 
+else if(det<0) 
     {
         real = -y / (2 * x);  
         img = sqrt(-det) / (2 * x);  
