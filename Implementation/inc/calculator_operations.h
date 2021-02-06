@@ -22,7 +22,7 @@ int add(int a1, int a2);
 * @param[in] operand2 
 * @return Result of operand1 - operand2
 */
-int subtract(int b1, int b2);
+int subtract(int a1, int a2);
 
 /**
 *  multiply the operand1, operand2 and returns the result
@@ -30,7 +30,7 @@ int subtract(int b1, int b2);
 * @param[in] operand2 
 * @return Result of operand1 * operand2
 */
-int multiply(int c1, int c2);
+int multiply(int a1, int a2);
 
 
 /**
@@ -40,7 +40,7 @@ int multiply(int c1, int c2);
 * @return integer value of the operand1 / operand2
 * @note returns 0 for divide by 0 error
 */
-int divide(int d1, int d2);
+int divide(int a1, int a2);
 
 /**
 * gives the square of the number

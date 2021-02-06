@@ -1,24 +1,27 @@
 #include <calculator_operations.h>
 
+int basic()
+{
 int add(int a1, int a2)
 {
     return a1 + a2;
 }
 
-int subtract(int b1, int b2)
+int subtract(int a1, int a2)
 {
-    return b1 - b2;
+    return a1 - a2;
 }
 
-int multiply(int c1, int c2)
+int multiply(int a1, int a2)
 {
-    return c1 * c2;
+    return a1 * a2;
 }
 
-int divide(int d1, int d2)
+int divide(int a1, int a2)
 {
-    if(0 == d2)
+    if(0 == a2)
         return 0;
     else
-        return d1 / d2;
+        return a1 / a2;
+}
 }
