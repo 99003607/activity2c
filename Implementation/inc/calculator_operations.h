@@ -1,4 +1,3 @@
-
 #ifndef __CALCULATOR_OPERATIONS_H__
 #define __CALCULATOR_OPERATIONS_H__
 
@@ -8,8 +7,7 @@
 #include <stdio_ext.h>
 #include <math.h>
 
-
-void basicoperations()
+void basicoperations();
 
 int add(calculator_operand1, calculator_operand2);
 int subtract(calculator_operand1, calculator_operand2);

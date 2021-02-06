@@ -1,7 +1,7 @@
 #include <calculator_operations.h>
 
 
-void basicoperation()
+void basicoperations()
 {
     int calculator_operand1, calculator_operand2;
     int choice1;

@@ -1,5 +1,6 @@
 #include <math.h>
 #include <stdio.h>
+#include<reverse.h>
 void reverseconversion()
 {
     long long n;
@@ -40,8 +41,6 @@ void reverseconversion()
         else
         {
             printf("\nYou've entered an invalid Hexadecimal digit");
-            getch();
-            return 0;
         }
         decnum = decnum + (rem*pow(16, i));
         len--;
@@ -54,7 +53,7 @@ void reverseconversion()
       printf("Enter an octal number: ");
     scanf("%d", &octalNumber);
 
-    printf("%d in octal = %lld in decimal", octalNumber, convertOctalToDecimal(octalNumber));
+    printf("%d in octal = %lld in decimal", octalNumber, convertoctalToDecimal(octalNumber));
 
     break;
     
@@ -77,7 +76,7 @@ int convert(long long n)
     return dec;
 }
  
-long long convertOctalToDecimal(int octalNumber)
+long long convertoctalToDecimal(int octalNumber)
 {
     int decimalNumber = 0, i = 0;
 

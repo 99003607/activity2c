@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
+#include<math.h>
 #include<unitconver.h>
 #include<exponential.h>
 #include<Determinant.h>
@@ -9,12 +10,13 @@
 #include<logicalfunctions.h>
 #include<reverse.h>
 #include<trignometry.h>
+#include<statitics.h>
 int main()
 {
 	int choice;
 	printf("--------------Welcome to the calculator------------");
 	printf("\n---Calculator Menu---\n");
-	first:printf("/nList of operations\n 1)Basic arthmetic calculations   2)Boolean operations  3)Trignometry  \n 4)Base conversion  5)Exponential  6)Qudratic \n 7)Unit convertions  8)Reverse conversion  9)Statistical conversion  /n 10)EXIT");
+	first:printf("/nList of operations\n 1)Basic arthmetic calculations   2)Boolean  operations  3)Trignometry  \n 4)Base conversion  5)Exponential  6)Qudratic \n 7)Unit convertions  8)Reverse conversion  9)Statistical conversion  /n 10)EXIT");
 	printf("\nEnter your choice:");
 	scanf("%d",&choice);
 	switch(choice)
@@ -37,7 +39,7 @@ int main()
 			break;
 		case 9: statitics();
 			break;
-		case 10: exit(); 
+		case 10: exit(0); 
 			
 		default: printf("INVALID CHOICE!!!!!!\nPlease renter your choice");
 			goto first;

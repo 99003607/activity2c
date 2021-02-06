@@ -3,5 +3,5 @@
 
 #include<stdio.h>
 #include<math.h>
-int statitics();
+void statitics();
 #endif

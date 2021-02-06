@@ -1,9 +1,10 @@
 
 #include <stdio.h>
+#include<statitics.h>
 #include <math.h>
 
  
-int main()
+void statitics()
 {
     int i,n,d ;
     float x[10];
@@ -120,5 +121,4 @@ else if (d==5)
 else {
 printf("Select the options from above functions only \n");
 }
-return 0;
 }
