@@ -3,7 +3,7 @@
 #include<exponential.h>
 #include<Determinant.h>
 #include<baseconversion.h>
-#include<calculator_operations>
+#include<calculator_operations.h>
 #include<exponential.h>
 #include<logicalfunctions.h>
 #include<reverse.h>
