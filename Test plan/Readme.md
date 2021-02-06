@@ -17,20 +17,6 @@
 |  HL4_L9_8   |       miligram to gram      |       Choose mG TO G from all the options        |        8240        |          8.420        |               |
 |  HL4_L10_9   |       seconds to minute      |       Choose S TO M from all the options        |        90        |           1.5       |               |
 |  HL4_L11_10   |       minutes to seconds       |       Choose M TO S from all the options        |        65        |      3900            |               |
-| HL6_L1_1    |      Finding roots of equation with Discriminant =0        |       a,b,c are real numbers        |        3 float operands        |         The two roots of the equation which are real and equal         |               |
-| HL6_L1_2    |    Finding roots of equation with Discriminant < 0          |       a,b,c are real numbers        |       3 float operands         |        The two roots of the equation which are complex and different          |               |
-| HL6_L1_3    |     Finding roots of equation with Discriminant > 0         |      a,b,c are real numbers           |      3 float operands            |      The two roots of the equation which are real and different            |               |
-| HL7_L1_1     |   work for function dec to binary          |      operand should be int         |      121          |        1111001          |               |
-| HL7_L1_2|     work for function dec to octal           |      operand should be int           |        121          |        71       |
-| HL7_L1_3|       work for function dec to hexadecimal           |      operand should be int            |       121         |         79         |            |
-|     |              |               |                |                  |               |
-|     |              |               |                |                  |               |
-| HL9_L1_1 | Exponential Function (decreasing) | If input (X) is less than 0. | X = -1 | Y = e^(-1) = 0.367 |    |
-| HL9_L1_2 | Exponential Function (when input is 0) | If input (X) is equal to 0. | X = 0 | Y = e^(0) = 1 |   |
-| HL9_L1_3 | Exponential Function (increasing) | If input (X) is greater than 0 | X = 2 | Y = e^(2) = 7.389 |   |
-| HL9_L1_4 | Exponential Function (when input is invalid)  | If input (X) is complex. | X= 2+3i | Y = -1 |   |
-|     |              |               |                |                  |               |
-|     |              |               |                |                  |               |
 | HL5_L1_1 | Logical AND | Choose AND operation from all the options |Two int operands| Returns AND of two values in int |    |
 | HL5_L1_2 | Logical AND  |Choose AND operation from all the options | In two int any one operand is invalid | Returns error as another operand is invalid |   |
 | HL5_L2_1 | Logical OR | Choose OR operation from all the options |Two int operands| Returns OR of two values in int |    |
@@ -45,11 +31,18 @@
 | HL5_L6_2 | Logical XOR | Choose XOR operation from all the options |Invalid int operands | Returns error as operand is invalid |    |
 | HL5_L7_1 | Logical XNOR | Choose XNOR operation from all the options | Two int operands | Returns XNOR of two values |    |
 | HL5_L6_1 | Logical XNOR | Choose XNOR operation from all the options | invalid int operands | Returns error as operand is invalid |    |
+| HL6_L1_1    |      Finding roots of equation with Discriminant =0        |       a,b,c are real numbers        |        3 float operands        |         The two roots of the equation which are real and equal         |               |
+| HL6_L1_2    |    Finding roots of equation with Discriminant < 0          |       a,b,c are real numbers        |       3 float operands         |        The two roots of the equation which are complex and different          |               |
+| HL6_L1_3    |     Finding roots of equation with Discriminant > 0         |      a,b,c are real numbers           |      3 float operands            |      The two roots of the equation which are real and different            |               |
+| HL7_L1_1     |   work for function dec to binary          |      operand should be int         |      121          |        1111001          |               |
+| HL7_L1_2|     work for function dec to octal           |      operand should be int           |        121          |        71       |
+| HL7_L1_3|       work for function dec to hexadecimal           |      operand should be int            |       121         |         79         |            |
 |     |              |               |                |                  |               |
 |     |              |               |                |                  |               |
-
-
-
+| HL9_L1_1 | Exponential Function (decreasing) | If input (X) is less than 0. | X = -1 | Y = e^(-1) = 0.367 |    |
+| HL9_L1_2 | Exponential Function (when input is 0) | If input (X) is equal to 0. | X = 0 | Y = e^(0) = 1 |   |
+| HL9_L1_3 | Exponential Function (increasing) | If input (X) is greater than 0 | X = 2 | Y = e^(2) = 7.389 |   |
+| HL9_L1_4 | Exponential Function (when input is invalid)  | If input (X) is complex. | X= 2+3i | Y = -1 |   |
 
 
 
