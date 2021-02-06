@@ -19,8 +19,8 @@ int main()
 	scanf("%d",&choice);
 	switch(choice)
 	{
-		case 1: basicoperation();
-				break;
+		case 1: basicoperations();
+		 break;
 		case 2: boolean();
 			break;
 		case 3: trignometry();
