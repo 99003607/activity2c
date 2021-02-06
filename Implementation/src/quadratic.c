@@ -1,7 +1,7 @@
-#include <Determinant.h>
+#include<Determinant.h>
 #include<stdio.h>
 #include<math.h>
-float Determinant(float x,float y,float z)
+float Deter(float x,float y,float z)
 {
 float det;
 //Determinant to find the nature of the roots
@@ -38,7 +38,7 @@ float x,y,z,det;
 printf("\n Enter the value of coefficient x, y and z: \n ");
 scanf("%f %f %f", &x, &y, &z);
 //determinant
-det=Determinant(x,y,z);
+det=Deter(x,y,z);
 //Calculating the roots
 getroots(det,x,y,z);
    
