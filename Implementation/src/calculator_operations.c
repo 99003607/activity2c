@@ -15,14 +15,14 @@ void basicoperations()
             printf("\n\t%d + %d = %d\nEnter to continue", 
             calculator_operand1, 
             calculator_operand2,
-            add(calculator_operand1, calculator_operand2);
+            add(calculator_operand1, calculator_operand2));
         
             break;
         case 2:
             printf("\n\t%d - %d = %d\nEnter to continue", 
             calculator_operand1, 
             calculator_operand2,
-            subtract(calculator_operand1, calculator_operand2);
+            subtract(calculator_operand1, calculator_operand2));
             
             
             break;
@@ -30,7 +30,7 @@ void basicoperations()
             printf("\n\t%d * %d = %d\nEnter to continue", 
             calculator_operand1, 
             calculator_operand2,
-            multiply(calculator_operand1, calculator_operand2);
+            multiply(calculator_operand1, calculator_operand2));
             
             
             break;
@@ -38,7 +38,7 @@ void basicoperations()
             printf("\n\t%d / %d = %d\nEnter to continue", 
             calculator_operand1, 
             calculator_operand2,
-            divide(calculator_operand1, calculator_operand2);
+            divide(calculator_operand1, calculator_operand2));
             
         
             break;
@@ -49,19 +49,19 @@ void basicoperations()
             printf("\n\t---It should never come here---\n");
     }
 }
-int add(calculator_operand1, calculator_operand2)
+int add(int calculator_operand1, int calculator_operand2)
 {
     return(calculator_operand1+calculator_operand2);
 }
-int subtract(calculator_operand1, calculator_operand2)
+int subtract(int calculator_operand1,int calculator_operand2)
 {
     return(calculator_operand1-calculator_operand2);
 }
-int multiply(calculator_operand1, calculator_operand2)
+int multiply(int calculator_operand1, int calculator_operand2)
 {
     return(calculator_operand1*calculator_operand2);
 }
-int divison(calculator_operand1, calculator_operand2)
+int divide(int calculator_operand1, int calculator_operand2)
 {
     return(calculator_operand1/calculator_operand2);
 }

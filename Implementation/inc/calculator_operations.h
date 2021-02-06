@@ -9,8 +9,8 @@
 
 void basicoperations();
 
-int add(calculator_operand1, calculator_operand2);
-int subtract(calculator_operand1, calculator_operand2);
-int multiply(calculator_operand1, calculator_operand2);
-int divide(calculator_operand1, calculator_operand2);
+int add(int calculator_operand1, int calculator_operand2);
+int subtract(int calculator_operand1,int calculator_operand2);
+int multiply(int calculator_operand1,int calculator_operand2);
+int divide(int calculator_operand1,int calculator_operand2);
 #endif
