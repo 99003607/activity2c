@@ -19,7 +19,7 @@ if(det=0)
         printf("\n Value of root1 = %.2f and Value of root2 = %.2f", root1, root2);  
  }  
 //Defining the condition for complex and different roots
-else if(det<0) 
+if(det<0) 
     {
         real = -y / (2 * x);  
         img = sqrt(-det) / (2 * x);  
