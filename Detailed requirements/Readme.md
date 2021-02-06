@@ -46,7 +46,7 @@
 | HL3_L3 | tangent function |
 | HL2_L1 | mean  |
 | HL2_L2 | medain |
-| HL2_L3 | mode 
+| HL2_L3 | mode |
 
 
 
