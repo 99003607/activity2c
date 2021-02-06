@@ -15,25 +15,48 @@ void basicoperations()
             printf("\n\t%d + %d = %d\nEnter to continue", 
             calculator_operand1, 
             calculator_operand2,
+<<<<<<< HEAD
             add(calculator_operand1, calculator_operand2);
+=======
+            add(calculator_operand1, calculator_operand2));
+        
+>>>>>>> 30a0ebbf73872fa9bca7c3b50751207a2e7a6ffc
             break;
          case 2:
             printf("\n\t%d - %d = %d\nEnter to continue", 
             calculator_operand1, 
             calculator_operand2,
+<<<<<<< HEAD
             subtract(calculator_operand1, calculator_operand2);
+=======
+            subtract(calculator_operand1, calculator_operand2));
+            
+            
+>>>>>>> 30a0ebbf73872fa9bca7c3b50751207a2e7a6ffc
             break;
         case 3:
             printf("\n\t%d * %d = %d\nEnter to continue", 
             calculator_operand1, 
             calculator_operand2,
+<<<<<<< HEAD
             multiply(calculator_operand1, calculator_operand2);
+=======
+            multiply(calculator_operand1, calculator_operand2));
+            
+            
+>>>>>>> 30a0ebbf73872fa9bca7c3b50751207a2e7a6ffc
             break;
         case 4:
             printf("\n\t%d / %d = %d\nEnter to continue", 
             calculator_operand1, 
             calculator_operand2,
+<<<<<<< HEAD
             divide(calculator_operand1, calculator_operand2);
+=======
+            divide(calculator_operand1, calculator_operand2));
+            
+        
+>>>>>>> 30a0ebbf73872fa9bca7c3b50751207a2e7a6ffc
             break;
         case 5:
             exit(0);
@@ -42,19 +65,19 @@ void basicoperations()
             printf("\n\t---It should never come here---\n");
     }
 }
-int add(calculator_operand1, calculator_operand2)
+int add(int calculator_operand1, int calculator_operand2)
 {
     return(calculator_operand1+calculator_operand2);
 }
-int subtract(calculator_operand1, calculator_operand2)
+int subtract(int calculator_operand1,int calculator_operand2)
 {
     return(calculator_operand1-calculator_operand2);
 }
-int multiply(calculator_operand1, calculator_operand2)
+int multiply(int calculator_operand1, int calculator_operand2)
 {
     return(calculator_operand1*calculator_operand2);
 }
-int divison(calculator_operand1, calculator_operand2)
+int divide(int calculator_operand1, int calculator_operand2)
 {
     return(calculator_operand1/calculator_operand2);
 }
