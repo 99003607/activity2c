@@ -7,7 +7,7 @@
 #include <stdlib.h>
 #include <stdio_ext.h>
 #include <math.h>
-
+void basicoperations();
 /**
 *  adds the operand1 and operand2 and returns the result
 * @param[in] operand1 
