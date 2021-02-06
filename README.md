@@ -25,7 +25,6 @@ Our calculator performs the basic functions and complex calculations such as tri
 
 | Name                       | PS NO    | Total Test Cases | Test Cases passed | Test cases Failed | Test cases not checked |
 |----------------------------|----------|--------------|-------------------|-------------------|------------------------|
-| Vikram Anandnarayan Hegde  | 99003597 |        6|                |                   |                    |
 | SrinidhiGorityala          | 99003598 |              |                   |                   |                        |
 | Naga ChaithanyaKandukuru   | 99003600 |              |                   |                   |                        |
 | ChandanJ                   | 99003602 |              |                 |                   |                        |
@@ -33,6 +32,7 @@ Our calculator performs the basic functions and complex calculations such as tri
 | Sandesh Prabhu             | 99003607 |              |                   |                   |                        |
 | Satya SowmyaSuravarapu     | 99003609 |              |                   |                   |                        |
 | Arnab Chakraborty          | 99003611 |              |                   |                   |                        |
+| Vikram Anandnarayan Hegde  | 99003597 |        6|                |                   |                    |
 | SayanDey                   | 99003613 |        3       |           3        |                  |              0          |
 
 
