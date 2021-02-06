@@ -10,6 +10,7 @@ return det
 }
 float getroots(float det,float x,float y,float z)
 {
+float root1,root2,real,img;
 //Defining the condition for real and equal roots
 if(det=0)
  {  
@@ -32,7 +33,7 @@ else{
 }
 void quadratic()
 {
-float x,y,z,det,root1,root2,real,img;
+float x,y,z,det;
 printf("\n Enter the value of coefficient x, y and z: \n ");
 scanf("%f %f %f", &x, &y, &z);
 //determinant
