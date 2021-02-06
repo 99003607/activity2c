@@ -1,5 +1,6 @@
 #include <Determinant.h>
 #include<stdio.h>
+#include<math.h>
 
 void quadratic()
 {
