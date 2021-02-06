@@ -44,6 +44,9 @@
 | HL3_L1 | sine function  |
 | HL3_L2 | cosine function  |
 | HL3_L3 | tangent function |
+| HL2_L1 | mean  |
+| HL2_L2 | medain |
+| HL2_L3 | mode |
 
 
 
