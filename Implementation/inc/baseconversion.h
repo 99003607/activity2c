@@ -3,4 +3,7 @@
 
 #include<stdio.h>
 void baseconversion();
+int dectooct(y);
+int dectobin(x);
+int dectohex(z);
 #endif
