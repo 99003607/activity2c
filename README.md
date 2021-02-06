@@ -14,7 +14,7 @@ Our calculator performs the basic functions and complex calculations such as tri
 | SrinidhiGorityala          | 99003598 |   Arithmetic operations             |          0           |             0          |
 | Naga Chaithanya Kandukuru   | 99003600 | logical functions and highlevel and low level umldiagrams for logical expressions            | 1                    | 0                    |
 | ChandanJ                   | 99003602 |                |                     |                       |
-| Nandyala Naveen KumarReddy | 99003604 |                |                     |                       |
+| Nandyala Naveen KumarReddy | 99003604 | basic conversions               |             0        |              1         |
 | Sandesh Prabhu             | 99003607 |                |                     |                       |
 | Satya SowmyaSuravarapu     | 99003609 |                |                     |                       |
 | Arnab Chakraborty          | 99003611 |                |                     |                       |
