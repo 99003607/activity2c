@@ -25,7 +25,7 @@ Our calculator performs the basic functions and complex calculations such as tri
 
 | Name                       | PS NO    | Total Test Cases | Test Cases passed | Test cases Failed | Test cases not checked |
 |----------------------------|----------|--------------|-------------------|-------------------|------------------------|
-| Vikram Anandnarayan Hegde  | 99003597 |              |                   |                   |                        |
+| Vikram Anandnarayan Hegde  | 99003597 |        7      |           2        |                   |            5            |
 | SrinidhiGorityala          | 99003598 |              |                   |                   |                        |
 | Naga ChaithanyaKandukuru   | 99003600 |              |                   |                   |                        |
 | ChandanJ                   | 99003602 |              |                   |                   |                        |
