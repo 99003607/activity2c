@@ -1,10 +1,13 @@
  #include<stdio.h>
  //#include<baseconversion.h>
 
+int a,i,k;
+int num;
+int bin[32],oct[100000];
+char hex[10000];
+int dec;
+int x,y,z;
   
-
-
-
 void baseconversion()
 {
     int a,i,k;
