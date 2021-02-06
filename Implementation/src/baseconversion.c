@@ -68,8 +68,9 @@ int dectobin(int x)
         for(i=i-1;i>=0;i--)
         {
             printf("%d",bin[i]);
+          b=10*b+bin[i];
         }
-        b=10*b+bin[i];
+       
         return b;
 }
 
@@ -84,8 +85,9 @@ int dectooct(int y)
         for(i=i-1;i>=0;i--)
         {
             printf("%d",oct[i]);
+            o=10*o+oct[i];
         }
-        o=10*o+oct[i];
+        
         return o;
 }
 
@@ -108,7 +110,8 @@ int dectohex(int z)
         for(i=i-1;i>=0;i--)
         {
             printf("%c",hex[i]);
+            h=10*h+hex[i];
         }
-        h=10*h+hex[i];
+     
         return h;
 }
