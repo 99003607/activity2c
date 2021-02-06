@@ -3,7 +3,7 @@
 #include<exponential.h>
 #include<test_exponential.h>
 
-void test_is_expo();
+void test_is_expo()
 {
 
 /* Run Test functions */
