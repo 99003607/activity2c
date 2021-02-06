@@ -3,6 +3,5 @@
 
   //Function Declaration
   void quadratic();
-  float Determinant(float x,float y,float z);
 
 #endif
