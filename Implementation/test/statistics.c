@@ -1,12 +1,37 @@
 #include <unity.h>
-#include "test_unitconv.h"
-#include<unitconver.h>
+#include "test_1.h"
+#include<statistics.h>
 
 /* Modify these two lines according to the project */
 #include <calculator_operations.h>
 #define PROJECT_NAME    "Calculator"
 #include <unity.h>
-#include "test_unitconv.h"
+#include "test_1.h"
+
+void test_time(void) {
+	//seconds to minute
+  TEST_ASSERT_EQUAL(1.5, time_func(90,1));
+  
+  //minute to seconds
+  TEST_ASSERT_EQUAL(3900, time_func(65,2));
+}
+
+void test_length(void) {
+	//inch to cm
+  TEST_ASSERT_EQUAL(0, length_func(34,1));
+  
+  //cm to meter
+  TEST_ASSERT_EQUAL(14, length_func(1400,2));
+}
+
+void test_weight(void) {
+	//miligram to gram
+  TEST_ASSERT_EQUAL(8.240, weight_func(8240,1));
+  
+  //gram to kilogram
+  TEST_ASSERT_EQUAL(2.587, weight_func(2587,2));
+}
+/
 #include<unitconver.h>
 
 /* Modify these two lines according to the project */
@@ -43,7 +68,32 @@ void test_1(void) {
 }
 
 
-/* Required by the unity test framework */
+/* Required by the u
+
+void test_time(void) {
+	//seconds to minute
+  TEST_ASSERT_EQUAL(1.5, time_func(90,1));
+  
+  //minute to seconds
+  TEST_ASSERT_EQUAL(3900, time_func(65,2));
+}
+
+void test_length(void) {
+	//inch to cm
+  TEST_ASSERT_EQUAL(0, length_func(34,1));
+  
+  //cm to meter
+  TEST_ASSERT_EQUAL(14, length_func(1400,2));
+}
+
+void test_weight(void) {
+	//miligram to gram
+  TEST_ASSERT_EQUAL(8.240, weight_func(8240,1));
+  
+  //gram to kilogram
+  TEST_ASSERT_EQUAL(2.587, weight_func(2587,2));
+}
+/nity test framework */
 void setUp(){}
 /* Required by the unity test framework */
 void tearDown(){}
@@ -62,11 +112,5 @@ int test_main()
   return UNITY_END();
 }
 
-/* Write all the test functions */ 
-void test_temperature(void) {
-	//celcius to farenheit
-  TEST_ASSERT_EQUAL(50, temperature_func(10,1));
-  //farenheit to celcius
-  TEST_ASSERT_EQUAL(15.55, temperature_func(60,2)); 
-   
+
 }
