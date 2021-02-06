@@ -20,6 +20,7 @@ src/trignometry.c
 # All test source files
 TEST_SRC = test/test_unitconver.c\
 $(SRC)\
+unity/unity.c\ 
 
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
