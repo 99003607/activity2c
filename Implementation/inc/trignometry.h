@@ -1,6 +1,6 @@
-#ifndef  __trignometry__h__
-#define  __trignometry__h__
-
+#ifndef  __TRIGNOMETRY_H__
+#define  __TRIGNOMETRY_H__
+#include<math.h>
 #include<stdio.h>
-int trignometry();
+void trignometry();
 #endif

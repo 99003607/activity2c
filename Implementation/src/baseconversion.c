@@ -7,6 +7,7 @@ int bin[32],oct[100000];
 char hex[10000];
 int dec;
 int x,y,z;
+
   
 void baseconversion()
 {
