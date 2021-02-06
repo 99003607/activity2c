@@ -17,7 +17,7 @@ int main(void)
     test_is_unitconv();
 	 test_base();
 	test_is_expo();
-	 test_quadratic();
+	 //test_quadratic();
 
 	/* Close the Unity Test Framework */
 	return UNITY_END();
