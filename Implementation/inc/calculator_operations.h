@@ -8,42 +8,11 @@
 #include <stdio_ext.h>
 #include <math.h>
 
-/**
-*  adds the operand1 and operand2 and returns the result
-* @param[in] operand1 
-* @param[in] operand2 
-* @return Result of operand1 + operand2
-*/
-int add(int a1, int a2);
 
-/**
-*  subtracts the operand1, operand2 and returns the result
-* @param[in] operand1 
-* @param[in] operand2 
-* @return Result of operand1 - operand2
-*/
-int subtract(int a1, int a2);
+void basicoperations()
 
-/**
-*  multiply the operand1, operand2 and returns the result
-* @param[in] operand1 
-* @param[in] operand2 
-* @return Result of operand1 * operand2
-*/
-int multiply(int a1, int a2);
-
-
-/**
-* divides the operand1 by operand2 and returns the result 
-* @param[in] operand1 
-* @param[in] operand2 
-* @return integer value of the operand1 / operand2
-* @note returns 0 for divide by 0 error
-*/
-int divide(int a1, int a2);
-
-/**
-* gives the square of the number
-* @param[in] operand1 
-* @return integer value of the square operand1 
-*/
+int add(calculator_operand1, calculator_operand2);
+int subtract(calculator_operand1, calculator_operand2);
+int multiply(calculator_operand1, calculator_operand2);
+int divide(calculator_operand1, calculator_operand2);
+#endif
