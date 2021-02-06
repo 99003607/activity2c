@@ -19,56 +19,25 @@ int main()
 	scanf("%d",&choice);
 	switch(choice)
 	{
-		case 1: ADD
-		printf("\n\t %d + %d = %d\n Enter to continue", 
-            a1, 
-            a2,
-            add(a1, a2));
-            
-            __fpurge(stdin);
-            getchar();
+		case 1: baseconversion();
+				break;
+		case 2: boolean();
 			break;
-		case 2 : SUBTRACT
-		printf("\n\t %d - %d = %d\n Enter to continue", 
-            b1, 
-            b2,
-            subtract(b1, b2));
-            
-            __fpurge(stdin);
-            getchar();
-		case 3 : MULTIPLY
-		printf("\n\t %d * %d = %d\n Enter to continue", 
-            C1, 
-            C2,
-            multiply(C1, C2));
-            
-            __fpurge(stdin);
-            getchar();
-		case 4 : DIVIDE
-		printf("\n\t %d / %d = %d\n Enter to continue", 
-            d1, 
-            d2,
-            divide(d1, d2));
-            
-            __fpurge(stdin);
-            getchar();
-		case 5: boolean();
+		case 3: trignometry();
 			break;
-		case 6: trignometry();
+		case 4: baseconversion();
 			break;
-		case 7: baseconversion();
+		case 5: exponential();
 			break;
-		case 8: exponential();
+		case 6: quadratic();
 			break;
-		case 9: quadratic();
+		case 7: unitconvertion();
 			break;
-		case 10: unitconvertion();
+		case 8: reverseconversion();
 			break;
-		case 11: reverseconversion();
+		case 9: statitics();
 			break;
-		case 12: statitics();
-			break;
-		case 13: exit(); 
+		case 10: exit(); 
 			
 		default: printf("INVALID CHOICE!!!!!!\nPlease renter your choice");
 			goto first;
