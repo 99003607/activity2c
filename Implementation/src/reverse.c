@@ -1,6 +1,7 @@
 #include <math.h>
 #include <stdio.h>
 #include<reverse.h>
+///reverse base conversion
 void reverseconversion()
 {
     long long n;
