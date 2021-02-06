@@ -3,7 +3,7 @@
 
 void test_statistics(void);
 
-* Prototypes for all the test functions 
+//* Prototypes for all the test functions 
 void test_1(void);
 
 #endif
