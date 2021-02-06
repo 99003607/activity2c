@@ -1,33 +1,14 @@
 #include <unity.h>
 //#include <calculator_operations.h>
 #include<exponential.h>
+#include<test_exponential.h>
 
-/* Modify these two lines according to the project */
-#include <calculator_operations.h>
-#define PROJECT_NAME    "Calculator"
-
-/* Prototypes for all the test functions */
-void test_expo(void);
-void test_power(void);
-
-
-/* Required by the unity test framework */
-void setUp(){}
-/* Required by the unity test framework */
-void tearDown(){}
-
-/* Start of the application test */
-int main()
+void test_is_expo();
 {
-/* Initiate the Unity Test Framework */
-  UNITY_BEGIN();
 
 /* Run Test functions */
   RUN_TEST(test_expo);
   RUN_TEST(test_power);
-
-  /* Close the Unity Test Framework */
-  return UNITY_END();
 }
 
 /* Write all the test functions */ 
