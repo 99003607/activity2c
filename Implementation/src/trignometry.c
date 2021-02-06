@@ -33,4 +33,4 @@ int trig(int angle)
 	    printf("Cos(%f) = %f\n", degree, cos(radian));  
 	    printf("Tan(%f) = %f\n", degree, tan(radian)); 
 	    return 0;
-	}
+}

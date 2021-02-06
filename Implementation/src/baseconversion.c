@@ -113,5 +113,5 @@ int dectohex(int z)
              
         }
      
-        return hex;
+        //return hex;
 }
