@@ -10,7 +10,7 @@ Our calculator performs the basic functions and complex calculations such as tri
 ## Contributors list:  
 | Name                       | PS NO    | Features Built | No of Issues Raised | No of issues Resolved |
 |----------------------------|----------|----------------|---------------------|-----------------------|
-| Vikram Anandnarayan Hegde  | 99003597 |                |                     |                       |
+| Vikram Anandnarayan Hegde  | 99003597 |  Statistics operations              |      1               |          1             |
 | SrinidhiGorityala          | 99003598 |   Arithmetic operations             |          0           |             0          |
 | Naga Chaithanya Kandukuru   | 99003600 | logical functions and highlevel and low level umldiagrams for logical expressions            | 1                    | 0                    |
 | ChandanJ                   | 99003602 |                |                     |                       |
