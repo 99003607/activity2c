@@ -11,13 +11,7 @@ void trignometry()
 	    printf("enter 1 for continuation else 2");
 	    int k;
 	    scanf("%d",&k);
-	    if(k=1){
-	        return 0;
-	    }
-	    else{
-	        return 0;
-	
-	    }
+	    
 	}   
 	int trig(int angle)  
 	{  
