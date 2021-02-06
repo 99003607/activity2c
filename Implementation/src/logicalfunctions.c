@@ -13,32 +13,32 @@ void logicalfunctions()
         case 1:
             printf("enter the operands\n");
             scanf("%d,%d",&operand1,&operand2);
-            printf("the output of ORing is ",or(operand1,operand2));
+            printf("the output of ORing is %d",or(operand1,operand2));
             break;
         case 2:
             printf("enter the operands\n");
             scanf("%d,%d",&operand1,&operand2);
-            printf("the output of ORing is ",and(operand1,operand2));
+            printf("the output of ORing is %d",and(operand1,operand2));
             break;
         case 3:
             printf("enter the operands\n");
             scanf("%d,%d",&operand1,&operand2);
-            printf("the output of ORing is ",nand(operand1,operand2));
+            printf("the output of ORing is %d",nand(operand1,operand2));
             break;
         case 4:
             printf("enter the operands\n");
             scanf("%d,%d",&operand1,&operand2);
-            printf("the output of ORing is ",nor(operand1,operand2));
+            printf("the output of ORing is %d",nor(operand1,operand2));
             break;
         case 5:
             printf("enter the operands\n");
             scanf("%d,%d",&operand1,&operand2);
-            printf("the output of ORing is ",xor(operand1,operand2));
+            printf("the output of ORing is %d",xor(operand1,operand2));
             break;
         case 6:
             printf("enter the operands\n");
             scanf("%d,%d",&operand1,&operand2);
-            printf("the output of ORing is ",xnor(operand1,operand2));
+            printf("the output of ORing is %d",xnor(operand1,operand2));
             break;
         
         
