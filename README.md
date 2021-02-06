@@ -16,7 +16,7 @@ Our calculator performs the basic functions and complex calculations such as tri
 | ChandanJ                   | 99003602 |                |                     |                       |
 | Nandyala Naveen KumarReddy | 99003604 | basic conversions               |             0        |              0         |
 | Sandesh Prabhu             | 99003607 |                |                     |                       |
-| Satya SowmyaSuravarapu     | 99003609 |                |                     |                       |
+| Satya Sowmya Suravarapu    | 99003609 | trignometric operations               |  0                   |   0                    |
 | Arnab Chakraborty          | 99003611 |                |                     |                       |
 | Sayan Dey                   | 99003613 |       Roots for Quadratic Equations         |          1           |           0            |
 
