@@ -7,14 +7,14 @@
 #include <stdlib.h>
 #include <stdio_ext.h>
 #include <math.h>
-
+void basicoperations();
 /**
 *  adds the operand1 and operand2 and returns the result
 * @param[in] operand1 
 * @param[in] operand2 
 * @return Result of operand1 + operand2
 */
-int add(int operand1, int operand2);
+int add(int a1, int a2);
 
 /**
 *  subtracts the operand1, operand2 and returns the result
@@ -22,7 +22,7 @@ int add(int operand1, int operand2);
 * @param[in] operand2 
 * @return Result of operand1 - operand2
 */
-int subtract(int operand1, int operand2);
+int subtract(int a1, int a2);
 
 /**
 *  multiply the operand1, operand2 and returns the result
@@ -30,7 +30,7 @@ int subtract(int operand1, int operand2);
 * @param[in] operand2 
 * @return Result of operand1 * operand2
 */
-int multiply(int operand1, int operand2);
+int multiply(int a1, int a2);
 
 
 /**
@@ -40,7 +40,7 @@ int multiply(int operand1, int operand2);
 * @return integer value of the operand1 / operand2
 * @note returns 0 for divide by 0 error
 */
-int divide(int operand1, int operand2);
+int divide(int a1, int a2);
 
 /**
 * gives the square of the number

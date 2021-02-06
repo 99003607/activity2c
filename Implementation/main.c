@@ -19,8 +19,8 @@ int main()
 	scanf("%d",&choice);
 	switch(choice)
 	{
-		case 1: basic();
-			break;
+		case 1: basicoperations();
+		 break;
 		case 2: boolean();
 			break;
 		case 3: trignometry();
@@ -37,7 +37,7 @@ int main()
 			break;
 		case 9: statitics();
 			break;
-		case 10: exit(); 
+		case 10: exit(0); 
 			
 		default: printf("INVALID CHOICE!!!!!!\nPlease renter your choice");
 			goto first;

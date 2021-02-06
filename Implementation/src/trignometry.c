@@ -2,8 +2,9 @@
 #include<math.h>
 #include<trignometry.h>
 
-int trignometry(){
-int degree;
+void trignometry()
+{
+int degree=0;
 int operation;
 printf("Enter 1 for sin\n Enter 2 for cos\n Enter 3 for tan\n");
 scanf("%d",&operation);
@@ -38,5 +39,4 @@ scanf("%f",&radians);
                   printf("NO SPECIFIED OPERATION");
                   break;
    }
-   return 0;
 }

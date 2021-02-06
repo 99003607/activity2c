@@ -3,5 +3,6 @@
 #include <math.h>
 #include <stdio.h>
 int convert(long long n);
- void reverseconversion()
-long long convertOctalToDecimal(int octalNumber);
+ void reverseconversion();
+long long convertoctalToDecimal(int octalNumber);
+#endif
