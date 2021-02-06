@@ -13,7 +13,7 @@ void quadratic()
 float x,y,z,det,root1,root2,real,img;
 printf("\n Enter the value of coefficient x, y and z: \n ");
 scanf("%f %f %f", &x, &y, &z);
-
+//determinant
 det=Determinant(x,y,z);
 
 //Defining the condition for real and equal roots
