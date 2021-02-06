@@ -102,7 +102,7 @@ int dectohex(int z)
             }
             else
             {
-                hex[i]=55+k;
+                hex[i]=55+k; 
             }
             z=z/16;
         }
