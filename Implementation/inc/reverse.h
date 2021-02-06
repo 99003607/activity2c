@@ -5,3 +5,4 @@
 int convert(long long n);
  void reverseconversion()
 long long convertOctalToDecimal(int octalNumber);
+#endif

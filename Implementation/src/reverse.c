@@ -1,5 +1,9 @@
-#include<stdio.h>
-void reverseconversion()
+#include <math.h>
+#include <stdio.h>
+int convert(long long n);
+ 
+long long convertOctalToDecimal(int octalNumber);
+void main() 
 {
     long long n;
     int x;
@@ -62,6 +66,7 @@ void reverseconversion()
     printf("invalid selection\n");
     goto back;
     }
+
 }
 
 int convert(long long n) 
