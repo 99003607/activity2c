@@ -3,6 +3,7 @@
 #include<test_base.h>
 #include<test_exponential.h>
 #include<test_quadratic.h>
+#include<test_statistics.h>
 /* Required by the unity test framework */
 void setUp() {}
 /* Required by the unity test framework */
