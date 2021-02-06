@@ -26,7 +26,8 @@ TS_H= $(INC)\
 -Iunity\
 -Itest
 # All test source files
-TEST_SRC = test/test_unitconver.c\
+TEST_SRC = test/test_main.c\
+test/test_unitconver.c\
 $(SRC)\
 unity/unity.c 
 
