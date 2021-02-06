@@ -3,10 +3,7 @@
 void test_base();
 
 // Prototypes for all the test functions 
-void test_temperature(void);
-void test_time(void);
-void test_length(void);
-void test_weight(void);
-
+void test_dectobin(void);
+void test_dectooct(void);
 
 #endif 
