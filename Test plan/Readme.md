@@ -22,7 +22,6 @@
 | HL7_L1_3|       work for function dec to hexadecimal           |      operand should be int            |       121         |         79         |            |
 |     |              |               |                |                  |               |
 |     |              |               |                |                  |               |
-|     |              |               |                |                  |               |
 | HL9_L1_1 | Exponential Function (decreasing) | If input (X) is less than 0. | X = -1 | Y = e^(-1) = 0.367 |    |
 | HL9_L1_2 | Exponential Function (when input is 0) | If input (X) is equal to 0. | X = 0 | Y = e^(0) = 1 |   |
 | HL9_L1_3 | Exponential Function (increasing) | If input (X) is greater than 0 | X = 2 | Y = e^(2) = 7.389 |   |
