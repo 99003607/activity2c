@@ -15,7 +15,7 @@ int main(void)
     // Check primality function
     test_is_unitconv();
 	 test_base();
-	test_is_expo();
+	//test_is_expo();
 
 	/* Close the Unity Test Framework */
 	return UNITY_END();
