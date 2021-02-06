@@ -28,7 +28,7 @@ Our calculator performs the basic functions and complex calculations such as tri
 | Vikram Anandnarayan Hegde  | 99003597 |        7|           2        |                   |            5            |
 | SrinidhiGorityala          | 99003598 |              |                   |                   |                        |
 | Naga ChaithanyaKandukuru   | 99003600 |              |                   |                   |                        |
-| ChandanJ                   | 99003602 |       5       |         5          |                   |                        |
+| ChandanJ                   | 99003602 |              |                 |                   |                        |
 | Nandyala Naveen KumarReddy | 99003604 |              |                   |                   |                        |
 | Sandesh Prabhu             | 99003607 |              |                   |                   |                        |
 | Satya SowmyaSuravarapu     | 99003609 |              |                   |                   |                        |
