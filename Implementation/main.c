@@ -37,7 +37,7 @@ int main()
 			break;
 		case 9: statitics();
 			break;
-		case 10: exit(); 
+		case 10: exit(0); 
 			
 		default: printf("INVALID CHOICE!!!!!!\nPlease renter your choice");
 			goto first;
