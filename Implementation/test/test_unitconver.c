@@ -31,7 +31,7 @@ void test_time(void) {
 
 void test_length(void) {
 	//inch to cm
-  TEST_ASSERT_EQUAL(0, length_func(34,1));
+  TEST_ASSERT_EQUAL(86.360001, length_func(34,1));
   
   //cm to meter
   TEST_ASSERT_EQUAL(14, length_func(1400,2));
