@@ -2,6 +2,12 @@
 #include<unitconver.h>
 #include<exponential.h>
 #include<Determinant.h>
+#include<baseconversion.h>
+#include<calculator_operations>
+#include<exponential.h>
+#include<logicalfunctions.h>
+#include<reverse.h>
+#include<trignometry.h>
 int main()
 {
 	int choice;
