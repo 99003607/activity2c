@@ -1,32 +1,12 @@
-#include <unity.h>
-//#include <calculator_operations.h>
+
 #include<Determinant.h>
+#include<test_quadratic.h>
 
-/* Modify these two lines according to the project */
-#define PROJECT_NAME    "Calculator"
-
-/* Prototypes for all the test functions */
-void test_Deter(void);
-void test_getroots(void);
-
-
-/* Required by the unity test framework */
-void setUp(){}
-/* Required by the unity test framework */
-void tearDown(){}
-
-/* Start of the application test */
-int main()
+void test_quadratic()
 {
-/* Initiate the Unity Test Framework */
-  UNITY_BEGIN();
 
-/* Run Test functions */
   RUN_TEST(test_Deter);
   RUN_TEST(test_getroots);
-  
-  /* Close the Unity Test Framework */
-  return UNITY_END();
 }
 
 /* Write all the test functions */ 
