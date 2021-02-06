@@ -2,31 +2,15 @@
 #include "test_unitconv.h"
 #include<unitconver.h>
 
-/* Modify these two lines according to the project */
-#define PROJECT_NAME    "Calculator"
-
-/
-
-/* Required by the unity test framework */
-void setUp(){}
-/* Required by the unity test framework */
-void tearDown(){}
-
-/* Start of the application test */
-int test_main()
+void test_is_unitconv()
 {
-/* Initiate the Unity Test Framework */
-  UNITY_BEGIN();
-
-/* Run Test functions */
+  /* Run Test functions */
   RUN_TEST(test_temperature);
   RUN_TEST(test_time);
   RUN_TEST(test_length);
   RUN_TEST(test_weight);
-
-  /* Close the Unity Test Framework */
-  return UNITY_END();
 }
+
 
 /* Write all the test functions */ 
 void test_temperature(void) {
