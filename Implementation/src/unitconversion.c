@@ -54,13 +54,13 @@ float temperature_func(float input_operand,int ch)
 {
 	if(ch==1)
 	{
-		return(((input_operand*(9/5))+32));
+		return((((input_operand*9)/5)+32));
 	}
 	else
 	{
 		if(ch==2)
 		{
-			return(((input_operand-32)*(5/9)));
+			return((((input_operand-32)*5)/9));
 		}
 		else
 		{
