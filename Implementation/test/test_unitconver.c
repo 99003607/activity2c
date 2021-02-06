@@ -1,16 +1,12 @@
 #include <unity.h>
-//#include <calculator_operations.h>
+#include "test_unitconv.h"
 #include<unitconver.h>
 
 /* Modify these two lines according to the project */
 #include <calculator_operations.h>
 #define PROJECT_NAME    "Calculator"
 
-/* Prototypes for all the test functions */
-void test_temperature(void);
-void test_time(void);
-void test_length(void);
-void test_weight(void);
+/
 
 /* Required by the unity test framework */
 void setUp(){}
@@ -18,7 +14,7 @@ void setUp(){}
 void tearDown(){}
 
 /* Start of the application test */
-int main()
+int test_main()
 {
 /* Initiate the Unity Test Framework */
   UNITY_BEGIN();
