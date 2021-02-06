@@ -27,4 +27,3 @@ int divide(int a1, int a2)
     else
         return a1 / a2;
 }
-}

@@ -26,7 +26,7 @@ void baseconversion()
         case 1:
         printf("enter decimal number\n>>");
         scanf("%d",&num);
-        dectobin(num);
+        printf("%d",dectobin(num));
     
         printf("\n\n");
         break;

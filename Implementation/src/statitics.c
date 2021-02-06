@@ -1,9 +1,10 @@
 
 #include <stdio.h>
+#include<statitics.h>
 #include <math.h>
 
  
-int main()
+void statitics()
 {
     int i,n,d ;
     float x[10];
