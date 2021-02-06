@@ -34,13 +34,13 @@ void test_length(void) {
   TEST_ASSERT_EQUAL(86.360001, length_func(34,1));
   
   //cm to meter
-  TEST_ASSERT_EQUAL(14, length_func(1400,2));
+  TEST_ASSERT_EQUAL(14.000, length_func(1400,2));
 }
 
 void test_weight(void) {
 	//miligram to gram
-  TEST_ASSERT_EQUAL(8.240, weight_func(8240,1));
+  TEST_ASSERT_EQUAL(8240000.0, weight_func(8240,1));
   
   //gram to kilogram
-  TEST_ASSERT_EQUAL(2.587, weight_func(2587,2));
+  TEST_ASSERT_EQUAL(2587000.0, weight_func(2587,2));
 }
