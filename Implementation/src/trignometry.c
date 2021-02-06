@@ -2,7 +2,7 @@
 #include<math.h>
 #include<trignometry.h>
 
-int trignometry()
+void trignometry()
 {
 int degree=0;
 int operation;
@@ -39,5 +39,4 @@ scanf("%f",&radians);
                   printf("NO SPECIFIED OPERATION");
                   break;
    }
-   return 0;
 }
