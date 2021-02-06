@@ -8,3 +8,6 @@
 ## Links to learning material
 - https://www.includehelp.com/c-programs/create-header-file.aspx  
 - https://www.javatpoint.com/c-program-to-find-the-roots-of-quadratic-equation
+- https://www.tutorialspoint.com/cprogramming/c_return_arrays_from_function.htm
+- https://tableconvert.com/
+- https://wordpress.com/support/markdown-quick-reference/
