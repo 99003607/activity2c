@@ -9,10 +9,8 @@
  
 void test_base()
 {
-  RUN_TEST(test_temperature);
-  RUN_TEST(test_time);
-  RUN_TEST(test_length);
-  RUN_TEST(test_weight); 
+  RUN_TEST(test_dectobin);
+  RUN_TEST(test_dectooct); 
 }
 
 /* Write all the test functions */ 
