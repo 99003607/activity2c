@@ -33,6 +33,6 @@ Our calculator performs the basic functions and complex calculations such as tri
 | Sandesh Prabhu             | 99003607 |              |                   |                   |                        |
 | Satya SowmyaSuravarapu     | 99003609 |              |                   |                   |                        |
 | Arnab Chakraborty          | 99003611 |              |                   |                   |                        |
-| SayanDey                   | 99003613 |      3        |          3         |                   |             0           |
+| SayanDey                   | 99003613 |        3        |           3         |                   |              0           |
 
 
