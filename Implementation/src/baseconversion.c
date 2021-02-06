@@ -110,8 +110,8 @@ int dectohex(int z)
         for(i=i-1;i>=0;i--)
         {
             printf("%c",hex[i]);
-            h=10*h+hex[i];
+             
         }
      
-        return h;
+        //return hex;
 }

@@ -3,4 +3,5 @@
 #include<math.h>
 #include<stdio.h>
 void trignometry();
+int trig(int angle);
 #endif
