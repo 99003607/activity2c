@@ -2,7 +2,7 @@
 #include <logicalfunctions.h>
 #include<stdlib.h>
 #include <math.h>
-void logicalfunctions()
+void boolean()
 {
     int choice,operand1,operand2;
     printf("these are the logical functions that i support\n");

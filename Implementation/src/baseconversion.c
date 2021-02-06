@@ -54,8 +54,9 @@ void baseconversion()
     }
 }
 
-int dectobin(x)
+int dectobin(int x)
 {
+    //static int bin[32];
     for(i=0;x>0;i++)
         {
             bin[i]=x%2;
@@ -66,10 +67,10 @@ int dectobin(x)
         {
             printf("%d",bin[i]);
         }
-        return bin;
+        //return bin;
 }
 
-int dectooct(y)
+int dectooct(int y)
 {
     for(i=0;y>0;i++)
         {
@@ -81,10 +82,10 @@ int dectooct(y)
         {
             printf("%d",oct[i]);
         }
-        return oct;
+        //return oct;
 }
 
-int dectohex(z)
+int dectohex(int z)
 {
   for(i=0;z>0;i++)
         {
@@ -104,5 +105,5 @@ int dectohex(z)
         {
             printf("%c",hex[i]);
         }
-        return hex;
+        //return hex;
 }

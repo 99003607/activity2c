@@ -1,7 +1,7 @@
 #include <calculator_operations.h>
 
 
-void basicoperation()
+void basicoperations()
 {
     //inside these put your switch case
 }

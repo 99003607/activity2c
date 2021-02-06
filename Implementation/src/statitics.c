@@ -121,5 +121,4 @@ else if (d==5)
 else {
 printf("Select the options from above functions only \n");
 }
-return 0;
 }
