@@ -17,8 +17,8 @@ Our calculator performs the basic functions and complex calculations such as tri
 | Nandyala Naveen KumarReddy | 99003604 | basic conversions               |             0        |              0         |
 | Sandesh Prabhu             | 99003607 |                |                     |                       |
 | Satya SowmyaSuravarapu     | 99003609 |                |                     |                       |
-| Arnab Chakraborty          | 99003611 |       Exponential Functions         |           2          |             0          |
-| SayanDey                   | 99003613 |                |                     |                       |
+| Arnab Chakraborty          | 99003611 |                |                     |                       |
+| Sayan Dey                   | 99003613 |       Roots for Quadratic Equations         |          1           |           0            |
 
 
 ## Test summary
