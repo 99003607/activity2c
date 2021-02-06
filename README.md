@@ -1,5 +1,5 @@
 # Product description  
-Our calculator performs the basic functions and complex calculations such as trignometry,unit conversions,statistical calculation,quadratic,base conversions,logarithmic and exponential functions our product is user friendly economical and portable.
+Our calculator performs the basic functions and complex calculations such as trignometry function ,unit conversions,statistical calculation,quadratic,base conversions,logarithmic and exponential functions our product is user friendly economical and portable.
 
 ## Status of the badges:
 
