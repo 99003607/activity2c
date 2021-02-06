@@ -51,6 +51,6 @@ void test_dectooct(void) {
   TEST_ASSERT_EQUAL(555,  dectooct(365));
   TEST_ASSERT_EQUAL(101,  dectooct(65));
   TEST_ASSERT_EQUAL(43,  dectooct(35));
-}
+} 
 
  
