@@ -3,34 +3,16 @@
 #include<baseconversion.h>
 
 /* Modify these two lines according to the project */
-#include <baseconversion.h>
-#define PROJECT_NAME    "Calculator"
+#include <test_base.h>
 
-/* Prototypes for all the test functions */
-void test_temperature(void);
-void test_time(void);
-void test_length(void);
-void test_weight(void);
 
-/* Required by the unity test framework */
-void setUp(){}
-/* Required by the unity test framework */
-void tearDown(){}
-
-/* Start of the application test */
-int main()
+ 
+void test_base()
 {
-/* Initiate the Unity Test Framework */
-  UNITY_BEGIN(); 
-
-/* Run Test functions */
   RUN_TEST(test_temperature);
   RUN_TEST(test_time);
   RUN_TEST(test_length);
-  RUN_TEST(test_weight);
-
-  /* Close the Unity Test Framework */
-  return UNITY_END();
+  RUN_TEST(test_weight); 
 }
 
 /* Write all the test functions */ 
