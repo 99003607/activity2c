@@ -3,9 +3,10 @@
 #include<math.h>
 float Determinant(float x,float y,float z)
 {
+float det;
 //Determinant to find the nature of the roots
 det = y * y - 4 * x * z;
-return det
+return det;
 
 }
 float getroots(float det,float x,float y,float z)
