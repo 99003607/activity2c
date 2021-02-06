@@ -28,6 +28,8 @@ TS_H= $(INC)\
 # All test source files
 TEST_SRC = test/test_main.c\
 test/test_unitconver.c\
+test/test_baseconversion.c\
+test/test_exponential.c\
 src/unitconversion.c\
 src/exponential.c\
 src/quadratic.c\
