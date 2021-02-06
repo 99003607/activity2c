@@ -8,7 +8,7 @@ float x,y,z,Determinant,root1,root2,real,img;
 printf("\n Enter the value of coefficient x, y and z: \n ");
 scanf("%f %f %f", &x, &y, &z);
 //Determinant to find the nature of the roots
-Determiinant= y * y - 4 * x * z;
+Determinant = y * y - 4 * x * z;
 //Defining the condition for real and equal roots
 if(Determinant=0)
  {  
