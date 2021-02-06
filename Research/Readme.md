@@ -4,7 +4,7 @@
 **STATE OF ART** :
 
 # AGEING:
-  - The first programmable calculator was given by HP that released in .
+  - The first programmable calculator was given by HP that released in 1968 .
   - Later in 1972, the first pocket calculator came into picture.
   - Our product will implement a wide range of applications from statistical calculators and scientific calculators
 # COSTING:  
