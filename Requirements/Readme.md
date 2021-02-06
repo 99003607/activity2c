@@ -2,7 +2,7 @@
 
   
 # Product Description:
-Our product is a calculator which has not only the basic arithmetic capabilites but there are also other functions such as special functions (i.e., square root, factorial, prime, etc.), trigonometric functions,conversion functions (i.e., meter to centimeter, etc.),Statistical functions(mean,median,variance,mode) and Boolean functions(AND, OR, NOT, XOR, XNOR)
+Our product is a calculator which has not only the basic arithmetic capabilites but there are also other functions such as special functions (i.e., square root, factorial, prime, etc.), trigonometric functions,conversion functions (i.e., meter to centimeter, etc.),Statistical functions(mean,median,variance,mode) and Boolean functions(AND, OR, NOT, XOR, XNOR).
 
 # SWOT Analysis:
 ![SWOT](swot.png)
