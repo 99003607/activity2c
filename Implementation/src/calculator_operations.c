@@ -15,48 +15,28 @@ void basicoperations()
             printf("\n\t%d + %d = %d\nEnter to continue", 
             calculator_operand1, 
             calculator_operand2,
-<<<<<<< HEAD
-            add(calculator_operand1, calculator_operand2);
-=======
             add(calculator_operand1, calculator_operand2));
-        
->>>>>>> 30a0ebbf73872fa9bca7c3b50751207a2e7a6ffc
             break;
          case 2:
             printf("\n\t%d - %d = %d\nEnter to continue", 
             calculator_operand1, 
             calculator_operand2,
-<<<<<<< HEAD
-            subtract(calculator_operand1, calculator_operand2);
-=======
             subtract(calculator_operand1, calculator_operand2));
-            
-            
->>>>>>> 30a0ebbf73872fa9bca7c3b50751207a2e7a6ffc
             break;
         case 3:
             printf("\n\t%d * %d = %d\nEnter to continue", 
             calculator_operand1, 
             calculator_operand2,
-<<<<<<< HEAD
-            multiply(calculator_operand1, calculator_operand2);
-=======
             multiply(calculator_operand1, calculator_operand2));
-            
-            
->>>>>>> 30a0ebbf73872fa9bca7c3b50751207a2e7a6ffc
             break;
         case 4:
             printf("\n\t%d / %d = %d\nEnter to continue", 
             calculator_operand1, 
             calculator_operand2,
-<<<<<<< HEAD
-            divide(calculator_operand1, calculator_operand2);
-=======
             divide(calculator_operand1, calculator_operand2));
+
             
-        
->>>>>>> 30a0ebbf73872fa9bca7c3b50751207a2e7a6ffc
+
             break;
         case 5:
             exit(0);
