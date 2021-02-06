@@ -17,7 +17,7 @@ void test_temperature(void) {
 	//celcius to farenheit
   TEST_ASSERT_EQUAL(50, temperature_func(10,1));
   //farenheit to celcius
-  TEST_ASSERT_EQUAL(15.55, temperature_func(60,2)); 
+  TEST_ASSERT_EQUAL(15.555555, temperature_func(60,2)); 
    
 }
 
