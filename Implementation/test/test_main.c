@@ -2,6 +2,7 @@
 #include<test_unitconver.h>
 #include<test_base.h>
 #include<test_exponential.h>
+#include<test_quadratic.h>
 /* Required by the unity test framework */
 void setUp() {}
 /* Required by the unity test framework */
@@ -16,6 +17,7 @@ int main(void)
     test_is_unitconv();
 	 test_base();
 	test_is_expo();
+	void test_quadratic();
 
 	/* Close the Unity Test Framework */
 	return UNITY_END();
