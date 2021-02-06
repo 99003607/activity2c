@@ -4,6 +4,9 @@ PROJECT_NAME = calculator
 # Output directory
 BUILD = build
 
+# All include folders with header files
+INC	= -Iinc
+
 # All source code files
 SRC = main.c\
 src/unitconversion.c\
@@ -16,7 +19,12 @@ src/reverse.c\
 src/statitics.c\
 src/trignometry.c
 
+#Test files
 
+#test header
+TS_H= $(INC)\
+-Iunity\
+-Itest
 # All test source files
 TEST_SRC = test/test_unitconver.c\
 $(SRC)\
@@ -25,10 +33,8 @@ unity/unity.c
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
 
-# All include folders with header files
-INC	= -Iinc\
--Iunity\
--Itest
+
+
 
 PROJECT_OUTPUT = $(BUILD)/$(PROJECT_NAME).out
 
@@ -50,7 +56,7 @@ run:$(PROJECT_NAME)
 
 # Build and run the unit tests
 test:$(BUILD)
-	gcc $(TEST_SRC) $(INC) -o $(TEST_OUTPUT) 
+	gcc $(TEST_SRC) $(TS_H) -o $(TEST_OUTPUT) 
 	./$(TEST_OUTPUT)
 
 # Remove all the built files, invoke by `make clean`
