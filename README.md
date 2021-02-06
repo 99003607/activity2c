@@ -1,5 +1,5 @@
 # Product description  
-Our calculator performs the basic functions and complex calculations such as trignometry,unit conversions,statistical calculation,quadratic,matrix,base conversions,logarithmic and exponential functions. our product is user friendly,economical and portable.
+Our calculator performs the basic functions and complex calculations such as trignometry,unit conversions,statistical calculation,quadratic,matrix,base conversions,logarithmic and exponential functions.our product is user friendly economical and portable.
 
 ## Status of the badges:
 
@@ -29,7 +29,7 @@ Our calculator performs the basic functions and complex calculations such as tri
 | SrinidhiGorityala          | 99003598 |              |                   |                   |                        |
 | Naga ChaithanyaKandukuru   | 99003600 |              |                   |                   |                        |
 | ChandanJ                   | 99003602 |              |                 |                   |                        |
-| Nandyala Naveen KumarReddy | 99003604 |              |                   |                   |                        |
+| Nandyala Naveen KumarReddy | 99003604 |      2        |      2             |        0           |                        |
 | Sandesh Prabhu             | 99003607 |              |                   |                   |                        |
 | Satya SowmyaSuravarapu     | 99003609 |              |                   |                   |                        |
 | Arnab Chakraborty          | 99003611 |              |                   |                   |                        |
