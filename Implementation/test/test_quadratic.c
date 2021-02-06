@@ -45,6 +45,9 @@ void test_getroots(void) {
   TEST_ASSERT_EQUAL(2, getroots(0,1,-4,4));
   
     //Roots are complex and different
-  TEST_ASSERT_EQUAL(3900, time_func(65,2));
+  TEST_ASSERT_EQUAL(-4, getroots(16,1,8,20));
+  
+   //Roots are complex and different
+  TEST_ASSERT_EQUAL(2.5, getroots(17,1,-5,2));
 }
 
