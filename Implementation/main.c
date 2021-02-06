@@ -14,7 +14,7 @@ int main()
 	int choice;
 	printf("--------------Welcome to the calculator------------");
 	printf("\n---Calculator Menu---\n");
-	first:printf("/nList of operations\n 1)Basic arthmetic calculations   2)Boolean operations  3)Trignometry  \n 4)Base conversion  5)Exponential  6)Qudratic \n 7)Unit convertions  8)Reverse conversion  9)Statistical conversion  /n 10)EXIT");
+	first:printf("/nList of operations\n 1)Basic arthmetic calculations   2)Boolean  operations  3)Trignometry  \n 4)Base conversion  5)Exponential  6)Qudratic \n 7)Unit convertions  8)Reverse conversion  9)Statistical conversion  /n 10)EXIT");
 	printf("\nEnter your choice:");
 	scanf("%d",&choice);
 	switch(choice)
