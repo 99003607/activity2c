@@ -30,7 +30,7 @@ TEST_SRC = test/test_main.c\
 test/test_unitconver.c\
 test/test_baseconversion.c\
 test/test_exponential.c\
-test/test_quadratic.h\
+test/test_quadratic.c\
 src/unitconversion.c\
 src/exponential.c\
 src/quadratic.c\
