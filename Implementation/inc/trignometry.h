@@ -1,5 +1,5 @@
-#ifndef  __trignometry__h__
-#define  __trignometry__h__
+#ifndef  __trignometry_h__
+#define  __trignometry_h__
 
 #include<stdio.h>
 void trignometry();
