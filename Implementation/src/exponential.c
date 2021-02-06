@@ -33,7 +33,7 @@ float power(int base,int x1)
 }
 }
 
-void exponential();
+void exponential()
 {
     int n=10;
     int base;
