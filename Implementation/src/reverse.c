@@ -1,9 +1,6 @@
 #include <math.h>
 #include <stdio.h>
-int convert(long long n);
- 
-long long convertOctalToDecimal(int octalNumber);
-void main() 
+void reverseconversion()
 {
     long long n;
     int x;
@@ -51,7 +48,6 @@ void main()
         i++;
     }
     printf("\nEquivalent Decimal Value = %d", decnum);
-    getch();
     break;
      
      case 3:
