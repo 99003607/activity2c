@@ -1,4 +1,3 @@
-
 #ifndef __CALCULATOR_OPERATIONS_H__
 #define __CALCULATOR_OPERATIONS_H__
 
@@ -47,3 +46,5 @@ int divide(int a1, int a2);
 * @param[in] operand1 
 * @return integer value of the square operand1 
 */
+
+#endif

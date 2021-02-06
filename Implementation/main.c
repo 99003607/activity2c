@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
+#include<math.h>
 #include<unitconver.h>
 #include<exponential.h>
 #include<Determinant.h>
