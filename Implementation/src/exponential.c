@@ -35,7 +35,7 @@ float power(int base,int x1)
 
 void exponential()
 {
-    int n=10;
+    int n=100;
     int base;
     printf("Enter base: ");
     scanf("%d",&base);

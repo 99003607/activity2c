@@ -39,7 +39,7 @@ printf("\n Enter the value of coefficient x, y and z: \n ");
 scanf("%f %f %f", &x, &y, &z);
 //determinant
 det=Deter(x,y,z);
-//Calculating the roots
+//Calculating the roots of the quadratic
 getroots(det,x,y,z);
    
 }

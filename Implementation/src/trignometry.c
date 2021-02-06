@@ -4,53 +4,27 @@
 
 void trignometry()
 {
-int degree=0;
-int operation;
-printf("Enter 1 for sin\n Enter 2 for cos\n Enter 3 for tan\n");
-scanf("%d",&operation);
-float radians = degree*(3.14/180.0);
-scanf("%f",&radians);
-
- switch(operation)
- {
-
-      case 1:
-                  printf("Enter the degree:\n");
-                  scanf("%d",&degree);
-                  printf("trignometric_s output is %f",trig_s(radians));
-                  break;
-                  
-      case 2:
-                  printf("Enter the degree:\n");
-                  scanf("%d",&degree);
-                  printf("trignometric_c output is %f",trig_c(radians));
-                  break;
-                  
-       case 3:
-                  printf("Enter the degree:\n");
-                  scanf("%d",&degree);
-                  printf("trignometric_t output is %f",trig_t(radians));
-                  break;
-                  
-       default:
-                  printf("NO SPECIFIED OPERATION");
-                  break;
-   }
- 
-}
-float trig_s(radians)
-{
-                  float s_value=sin(radians);
-                  printf("sine %d is %f",degree,s_value);
-}
- 
- float trig_c(radians)
- {
-                  float c_value=cos(radians);
-                  printf("cosine %d is %f",degree,c_value);
- }
-float trig_t(radians)
-{
-                  float t_value=sin(radians);
-                  printf("sine %d is %f",degree,t_value);
-}
+	    float angle=0,trignometry;
+	    printf("enter the number");
+	    scanf("%f",&angle);
+	    trig(angle);
+	    printf("enter 1 for continuation else 2");
+	    int k;
+	    scanf("%d",&k);
+	    
+	}   
+	int trig(int angle)  
+	{  
+	    float degree, radian;  
+	    const float PI = 3.14159;  
+	  
+	    printf("Enter angle in degree\n");  
+	    scanf("%f",&degree);  
+	  
+	    radian = degree * (PI / 180.0);  
+	  
+	    printf("Sin(%f) = %f\n", degree, sin(radian));  
+	    printf("Cos(%f) = %f\n", degree, cos(radian));  
+	    printf("Tan(%f) = %f\n", degree, tan(radian)); 
+	    return 0;
+	}
