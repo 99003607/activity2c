@@ -7,6 +7,7 @@ int bin[32],oct[100000];
 char hex[10000];
 int dec;
 int x,y,z;
+int b,o,h;
 
   
 void baseconversion()
@@ -17,6 +18,7 @@ void baseconversion()
     char hex[10000];
     int dec;
     int x,y,z;
+    int b,o,h;
   
     
     printf("select the conversions \n DEC TO bin = 1 \n DEC TO OCT = 2 \n DEC TO HEX = 3 \n  \n>>");
@@ -66,8 +68,10 @@ int dectobin(int x)
         for(i=i-1;i>=0;i--)
         {
             printf("%d",bin[i]);
+          b=10*b+bin[i];
         }
-        //return bin;
+       
+        return b;
 }
 
 int dectooct(int y)
@@ -81,8 +85,10 @@ int dectooct(int y)
         for(i=i-1;i>=0;i--)
         {
             printf("%d",oct[i]);
+            o=10*o+oct[i];
         }
-        //return oct;
+        
+        return o;
 }
 
 int dectohex(int z)
@@ -104,6 +110,8 @@ int dectohex(int z)
         for(i=i-1;i>=0;i--)
         {
             printf("%c",hex[i]);
+            h=10*h+hex[i];
         }
-        //return hex;
+     
+        return h;
 }
