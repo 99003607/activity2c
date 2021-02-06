@@ -17,26 +17,40 @@ scanf("%f",&radians);
       case 1:
                   printf("Enter the degree:\n");
                   scanf("%d",&degree);
-                  float sin_value=sin(radians);
-                  printf("sine %d is %f",degree,sin_value);
+                  printf("trignometric_s output is %f",trig_s(radians));
                   break;
                   
       case 2:
                   printf("Enter the degree:\n");
                   scanf("%d",&degree);
-                  float cos_value=cos(radians);
-                  printf("cosine %d is %f",degree,cos_value);
+                  printf("trignometric_c output is %f",trig_c(radians));
                   break;
                   
        case 3:
                   printf("Enter the degree:\n");
                   scanf("%d",&degree);
-                  float tan_value=sin(radians);
-                  printf("Tangent %d is %f",degree,tan_value);
+                  printf("trignometric_t output is %f",trig_t(radians));
                   break;
                   
        default:
                   printf("NO SPECIFIED OPERATION");
                   break;
    }
+ 
+}
+float trig_s(radians)
+{
+                  float s_value=sin(radians);
+                  printf("sine %d is %f",degree,s_value);
+}
+ 
+ float trig_c(radians)
+ {
+                  float c_value=cos(radians);
+                  printf("cosine %d is %f",degree,c_value);
+ }
+float trig_t(radians)
+{
+                  float t_value=sin(radians);
+                  printf("sine %d is %f",degree,t_value);
 }
