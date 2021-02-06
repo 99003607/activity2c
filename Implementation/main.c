@@ -9,6 +9,7 @@
 #include<logicalfunctions.h>
 #include<reverse.h>
 #include<trignometry.h>
+#include<statitics.h>
 int main()
 {
 	int choice;
