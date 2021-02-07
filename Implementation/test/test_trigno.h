@@ -3,6 +3,6 @@
 void test_trigno();
 
 // Prototypes for all the test functions 
-void test_trig(void);
+void test_is_trig(void);
 
 #endif 
