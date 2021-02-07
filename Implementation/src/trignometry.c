@@ -6,6 +6,7 @@
 	 
 float trig_s(float degree)  
 {  
+	float PI = 3.14159; 
 	float radian,result;  
 	radian = degree * (PI / 180.0);  
 	result=sin(radian);
@@ -15,6 +16,7 @@ float trig_s(float degree)
 	  
 float trig_c(float degree)  
 {  
+	float PI = 3.14159;
     float radian,result;  
 	radian = degree * (PI / 180.0);  
 	result=cos(radian); 
@@ -24,6 +26,7 @@ float trig_c(float degree)
 	  
 float trig_t(float degree)  
 {   
+	float PI = 3.14159;
       float radian,result;  
 	radian = degree * (PI / 180.0);  
 	result=cos(radian); 
