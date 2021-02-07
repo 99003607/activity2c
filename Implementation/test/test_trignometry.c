@@ -1,5 +1,5 @@
 #include <unity.h>
-#include<test_trignometry.h>
+#include<test_trigno.h>
 #include<trignometry.h>
 
 void test_is_trig()
