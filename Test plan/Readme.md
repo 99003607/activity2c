@@ -11,14 +11,14 @@
 | HL3_L1_1    |      calculations trignometric operations        |       operand should be int        |        1 float or int value       |        operand can be integer or float or no value  |  |
 | HL3_L1_2    |      calculations trignometric operations        |       operand should be int        |        1 float or int value       |        operand can be integer or float or no value  |  |
 | HL3_L1_3    |      calculations trignometric operations        |       operand should be int        |        1 float or int value       |        operand can be integer or float or no value  |  |
-| HL4_L1_1    |   Centimeter to meter           |    Choose Centimeter TO Meter from the options           |       1400         |          14.0        |        14.000       |  |
-|  Hl4_L3_2   |   Inch  to Centimeter          |        Choose Iinch TO Centimeter from the options       |        34        |         86.36         |       86.360001        |  |
-|  HL4_L4_3   |       Celcius to farenheit       |      Choose Celsius TO Farenheit from the options          |      10           |        50          |         50.0      |  |
-|  HL4_L6_5   |      farenheit to celcius        |        Choose Farenheit TO Celcius from the options       |        60        |         15.5         |       15.555555        |  |
-|  HL4_L8_7   |       gram to kilogram       |       Choose Gram TO KiloGram from the options        |        2587        |           2587000       |        2587000.0       |  |
-|  HL4_L9_8   |       miligram to gram      |       Choose miliGram TO Gram from the options        |        8240        |          8420000        |        820000.0       |  |
-|  HL4_L10_9   |       seconds to minute      |       Choose Seconds TO Minute from the options        |        90        |           1.5       |        1.50       |  |
-|  HL4_L11_10   |       minutes to seconds       |       Choose Minute TO Seconds from the options        |        65        |      3900            |       3900.0        |  |
+| HL4_L1_1    |   Centimeter to meter           |    Choose Centimeter TO Meter from the options           |       1400         |          14.0        |        14.000       | Requirement based |
+|  Hl4_L3_2   |   Inch  to Centimeter          |        Choose Iinch TO Centimeter from the options       |        34        |         86.36         |       86.360001        | Requirement based |
+|  HL4_L4_3   |       Celcius to farenheit       |      Choose Celsius TO Farenheit from the options          |      10           |        50          |         50.0      | Requirement based |
+|  HL4_L6_5   |      farenheit to celcius        |        Choose Farenheit TO Celcius from the options       |        60        |         15.5         |       15.555555        | Requirement based |
+|  HL4_L8_7   |       gram to kilogram       |       Choose Gram TO KiloGram from the options        |        2587        |           2587000       |        2587000.0       | Requirement based |
+|  HL4_L9_8   |       miligram to gram      |       Choose miliGram TO Gram from the options        |        8240        |          8420000        |        820000.0       | Requirement based |
+|  HL4_L10_9   |       seconds to minute      |       Choose Seconds TO Minute from the options        |        90        |           1.5       |        1.50       | Requirement based |
+|  HL4_L11_10   |       minutes to seconds       |       Choose Minute TO Seconds from the options        |        65        |      3900            |       3900.0        | Requirement based |
 | HL5_L1_1 | Logical AND | Choose AND operation from all the options |Two int operands| Returns AND of two values in int |    |  |
 | HL5_L1_2 | Logical AND  |Choose AND operation from all the options | In two int any one operand is invalid | Returns error as another operand is invalid |   |  |
 | HL5_L2_1 | Logical OR | Choose OR operation from all the options |Two int operands| Returns OR of two values in int |    |  |
