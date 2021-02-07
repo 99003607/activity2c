@@ -8,25 +8,25 @@ float trig_s(float degree)
 {  
 	float radian,result;  
 	radian = degree * (PI / 180.0);  
-	result=sin(radian)
+	result=sin(radian);
 	printf("Sin(%f) = %f\n", degree, result);  
 	return (result);
 }
 	  
-float trig_c(float angle)  
+float trig_c(float degree)  
 {  
     float radian,result;  
 	radian = degree * (PI / 180.0);  
-	result=cos(radian)  
+	result=cos(radian); 
 	printf("Cos(%f) = %f\n", degree, result); 
 	return (result);
 }
 	  
-float trig_t(float angle)  
+float trig_t(float degree)  
 {   
       float radian,result;  
 	radian = degree * (PI / 180.0);  
-	result=cos(radian)  
+	result=cos(radian); 
 	printf("Tan(%f) = %f\n", degree, result); 
 	return (result);
 }
