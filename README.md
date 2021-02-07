@@ -33,7 +33,7 @@ View [Git Inspector](https://99003607.github.io/activity2c/)
 | Nandyala Naveen KumarReddy | 99003604 |       2     |       2      |         0        |          0              |
 | Sandesh Prabhu             | 99003607 |       8       |         8          |       0            |           0             |
 | Satya Sowmya Suravarapu    | 99003609 |    6          |    6               |    0               |    0                    |
-| Arnab Chakraborty          | 99003611 |              |                   |                   |                        |
+| Arnab Chakraborty          | 99003611 |      5        |         5          |         0          |           0             |
 | Vikram Anandnarayan Hegde  | 99003597 |        6|                |                   |                    |
 | SayanDey                   | 99003613 |        3       |           3        |                  |              0          |
 
