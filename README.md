@@ -17,7 +17,7 @@ View [Git Inspector](https://99003607.github.io/activity2c/)
 | Naga Chaithanya Kandukuru   | 99003600 | logical functions and highlevel and low level umldiagrams for logical expressions            | 1                    | 0                    |
 | ChandanJ                   | 99003602 |      baseconversions           |          1           |            0           |
 | Nandyala Naveen KumarReddy | 99003604 | basic  conversions in reverse              |             1     |              0         |
-| Sandesh Prabhu             | 99003607 |       unit conversion         |      2               |                       |
+| Sandesh Prabhu             | 99003607 |       unit conversion         |      2               |           2            |
 | Satya Sowmya Suravarapu    | 99003609 | trignometric operations               |  0                   |   0                    |
 | Arnab Chakraborty          | 99003611 |        exponential and power function         |         2            |          2             |
 | Sayan Dey                   | 99003613 |       Roots for Quadratic Equations         |          1           |           0            |
