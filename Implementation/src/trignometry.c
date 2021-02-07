@@ -2,33 +2,33 @@
 #include<math.h>
 #include<trignometry.h>
 
-	float degree, radian;  
-	const float PI = 3.14159;  
-int trig_s(int angle)  
+	
+	 
+float trig_s(float degree)  
 {  
-    printf("Enter angle in degree\n");  
-	scanf("%f",&degree);
+	float radian,result;  
 	radian = degree * (PI / 180.0);  
-	printf("Sin(%f) = %f\n", degree, sin(radian));  
-	return 0;
+	result=sin(radian)
+	printf("Sin(%f) = %f\n", degree, result);  
+	return (result);
 }
 	  
-int trig_c(int angle)  
+float trig_c(float angle)  
 {  
-    printf("Enter angle in degree\n");  
-	scanf("%f",&degree);
+    float radian,result;  
 	radian = degree * (PI / 180.0);  
-	printf("Cos(%f) = %f\n", degree, cos(radian)); 
-	return 0;
+	result=cos(radian)  
+	printf("Cos(%f) = %f\n", degree, result); 
+	return (result);
 }
 	  
-int trig_t(int angle)  
+float trig_t(float angle)  
 {   
-    printf("Enter angle in degree\n");  
-	scanf("%f",&degree);
+      float radian,result;  
 	radian = degree * (PI / 180.0);  
-	printf("Tan(%f) = %f\n", degree, tan(radian)); 
-	return 0;
+	result=cos(radian)  
+	printf("Tan(%f) = %f\n", degree, result); 
+	return (result);
 }
 void trignometry()
 {       
@@ -36,6 +36,8 @@ void trignometry()
 	    float angle=0;
 	    printf("Enter the required operation:\n 1. for sin \n 2. for cos \n 3. for tan");
 	    scanf("%d",&operation);
+	   printf("Enter angle in degree\n");  
+	   scanf("%f",&angle);
 	    
 	    switch(operation){
 	        case 1: 
