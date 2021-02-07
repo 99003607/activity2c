@@ -19,7 +19,7 @@ float power(int base,int x1)
 
 {
 	
-	if(x1>0){
+	if(x1>=0){
 	
 		while(x1!=0){
 			result *= base;
