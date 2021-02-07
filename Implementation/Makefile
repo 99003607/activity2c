@@ -34,7 +34,7 @@ test/test_quadratic.c\
 test/test_revers.c\
 test/test_calculator_operations.c\
 test/test_trignometry.c\
-test/logicaunittest.c\
+test/test_logicaunit.c\
 src/unitconversion.c\
 src/exponential.c\
 src/quadratic.c\
