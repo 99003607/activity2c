@@ -6,4 +6,5 @@ void trignometry();
 float trig_s(float angle);
 float trig_c(float angle);
 float trig_t(float angle);
+const float PI = 3.14159; 
 #endif
