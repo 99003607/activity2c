@@ -32,6 +32,7 @@ test/test_baseconversion.c\
 test/test_exponential.c\
 test/test_quadratic.c\
 test/test_revers.c\
+test/test_calculator_operations.c\
 src/unitconversion.c\
 src/exponential.c\
 src/quadratic.c\
