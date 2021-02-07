@@ -7,6 +7,8 @@ Our calculator performs the basic functions and complex calculations such as tri
 |:-:|:-:|:-:|
 |  ![C_BUILD](https://github.com/99003607/activity2c/workflows/C_BUILD/badge.svg) |  ![cppcheck](https://github.com/99003607/activity2c/workflows/cppcheck/badge.svg) | ![Unit Testing](https://github.com/99003607/activity2c/workflows/Unit%20Testing/badge.svg)  |
 
+## Github inspector
+View [Git Inspector](https://99003607.github.io/activity2c/)
 ## Contributors list:  
 | Name                       | PS NO    | Features Built | No of Issues Raised | No of issues Resolved |
 |----------------------------|----------|----------------|---------------------|-----------------------|
