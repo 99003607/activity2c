@@ -42,5 +42,5 @@ void test_xor(void) {
 }
 void test_xnor(void) {
 	//xnoring of two values
-  TEST_ASSERT_EQUAL(6,xnor(10, 15));
+  TEST_ASSERT_EQUAL(-6,xnor(10, 15));
 }
