@@ -1,2 +1,0 @@
-# HIGH LEVEL DESIGN  
-![HIGH LEVEL](high.png )
