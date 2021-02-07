@@ -38,7 +38,7 @@ void test_multiply(void) {
 }
 
 void test_divide(void) {
-  TEST_ASSERT_EQUAL(0, divide(1, 0));
+  TEST_ASSERT_EQUAL(0, divide(0, 1));
   
   /* Dummy fail*/
   TEST_ASSERT_EQUAL(3, divide(2, 2));
