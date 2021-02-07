@@ -29,7 +29,7 @@ float trig_t(float degree)
 	float PI = 3.14159;
       float radian,result;  
 	radian = degree * (PI / 180.0);  
-	result=cos(radian); 
+	result=tan(radian); 
 	printf("Tan(%f) = %f\n", degree, result); 
 	return (result);
 }
