@@ -1,29 +1,10 @@
 #include <unity.h>
-//#include <calculator_operations.h>
-#include<unitconver.h>
+#include<test_logicaunittest.h>
 
-/* Modify these two lines according to the project */
-#include <calculator_operations.h>
-#define PROJECT_NAME    "Calculator"
+#include<logicalfunctions.h>
 
-/* Prototypes for all the test functions */
-void test_or(void);
-void test_and(void);
-void test_nand(void);
-void test_nor(void);
-void test_xor(void);
-void test_xnor(void);
-
-/* Required by the unity test framework */
-void setUp(){}
-/* Required by the unity test framework */
-void tearDown(){}
-
-/* Start of the application test */
-int main()
+void test_logics()
 {
-/* Initiate the Unity Test Framework */
-  UNITY_BEGIN();
 
 /* Run Test functions */
   RUN_TEST(test_or);
@@ -32,9 +13,6 @@ int main()
   RUN_TEST(test_nor);
   RUN_TEST(test_xor);
   RUN_TEST(test_xnor);
-
-  /* Close the Unity Test Framework */
-  return UNITY_END();
 }
 
 /* Write all the test functions */ 
