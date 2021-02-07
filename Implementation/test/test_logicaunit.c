@@ -26,10 +26,7 @@ void test_and(void) {
 
 void test_or(void) {
 	//Oring of two int values
-  TEST_ASSERT_EQUAL(15,or(10, 15));
-  
-  //dummy fail
-  TEST_ASSERT_EQUAL(9,or(10, 10));
+  TEST_ASSERT_EQUAL(60,or(60, 13));
 }
 
 void test_nand(void) {
