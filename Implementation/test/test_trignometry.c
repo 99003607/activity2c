@@ -1,40 +1,31 @@
 #include <unity.h>
-//#include <calculator_operations.h>
+#include<test_trignometry.h>
 #include<trignometry.h>
 
-/* Modify these two lines according to the project */
-#include <calculator_operations.h>
-#define PROJECT_NAME    "Calculator"
-
-/* Prototypes for all the test functions */
-void test_trig(void);
-
-
-
-/* Required by the unity test framework */
-void setUp(){}
-/* Required by the unity test framework */
-void tearDown(){}
-
-/* Start of the application test */
-int main()
+void test_is_trig()
 {
-/* Initiate the Unity Test Framework */
-  UNITY_BEGIN();
-
-/* Run Test functions */
-  RUN_TEST(test_trig);
-  
-
-  /* Close the Unity Test Framework */
-  return UNITY_END();
+  /* Run Test functions */
+  RUN_TEST(test_sin);
+  RUN_TEST(test_cos);
+  RUN_TEST(test_tan);
 }
 
 /* Write all the test functions */ 
-void test_trig(void) {
-  TEST_ASSERT_EQUAL(1, trig(30));
-  TEST_ASSERT_EQUAL(, trig(90));
-  TEST_ASSERT_EQUAL(0.367879, trig(45)); 
-  TEST_ASSERT_EQUAL(5.017, trig(30));
-   
+void test_sin(void) {
+  //test function to verify sin operation 
+  TEST_ASSERT_EQUAL(0.5, trig_s(30));
+  TEST_ASSERT_EQUAL(0.7, trig_s(45));   
 }
+void test_cos(void) {
+  
+  //test function to verify cos operation
+	 TEST_ASSERT_EQUAL(0, trig_c(90));
+  TEST_ASSERT_EQUAL(0.5, trig_c(60));
+}
+void test_tan(void) {
+  
+  //test function to verify tan operation
+  TEST_ASSERT_EQUAL(1.732, trig_t(60));
+  TEST_ASSERT_EQUAL(1, trig_t(45));
+}
+
