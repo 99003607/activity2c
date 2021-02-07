@@ -1,32 +1,15 @@
 #include <unity.h>
-//#include <calculator_operations.h>
-#include<unitconver.h>
+#include<reverse.h>
+#include<test_revers.h>
 
-/* Modify these two lines according to the project */
-#include <calculator_operations.h>
-#define PROJECT_NAME    "Calculator"
 
-/* Prototypes for all the test functions */
-void convertoctalToDecimal(void);
-void convertbinaryToDecimal(void);
 
-/* Required by the unity test framework */
-void setUp(){}
-/* Required by the unity test framework */
-void tearDown(){}
 
 /* Start of the application test */
-int main()
+void test_revers()
 {
-/* Initiate the Unity Test Framework */
-  UNITY_BEGIN();
-
-/* Run Test functions */
   RUN_TEST(convertoctalToDecimal);
   RUN_TEST(convertbinaryToDecimal);
-
-  /* Close the Unity Test Framework */
-  return UNITY_END();
 }
 
 /* Write all the test functions */ 
