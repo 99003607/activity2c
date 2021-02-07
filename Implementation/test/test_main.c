@@ -24,8 +24,9 @@ int main(void)
 	test_revers();
 	 test_calc();
 	 test_is_trig();
+	test_quadratic();
 	//test_statistics();
-	 //test_quadratic();
+	 
 
 	/* Close the Unity Test Framework */
 	return UNITY_END();
