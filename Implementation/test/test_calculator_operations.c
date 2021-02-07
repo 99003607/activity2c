@@ -20,7 +20,7 @@ void test_add(void) {
   TEST_ASSERT_EQUAL(40, add(20, 20));
   
   /* Dummy fail*/
-  TEST_ASSERT_EQUAL(1000, add(75, 750));
+  //TEST_ASSERT_EQUAL(1000, add(75, 750));
 }
 
 void test_subtract(void) {
@@ -34,12 +34,12 @@ void test_multiply(void) {
   TEST_ASSERT_EQUAL(0, multiply(1, 0));
   
   /* Dummy fail*/
-  TEST_ASSERT_EQUAL(2, multiply(1, 3));
+  //TEST_ASSERT_EQUAL(2, multiply(1, 3));
 }
 
 void test_divide(void) {
   TEST_ASSERT_EQUAL(0, divide(0, 1));
   
   /* Dummy fail*/
-  TEST_ASSERT_EQUAL(3, divide(2, 2));
+  //TEST_ASSERT_EQUAL(3, divide(2, 2));
 }
