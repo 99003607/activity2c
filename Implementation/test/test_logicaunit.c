@@ -29,7 +29,7 @@ void test_or(void) {
   TEST_ASSERT_EQUAL(15,or(10, 15));
   
   //dummy fail
-  TEST_ASSERT_EQUAL(9 == or(10, 10));
+  TEST_ASSERT_EQUAL(9,or(10, 10));
 }
 
 void test_nand(void) {
