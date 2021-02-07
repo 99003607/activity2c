@@ -6,6 +6,7 @@
 #include<test_revers.h>
 #include<test_calculator_operations.h>
 #include<test_trigno.h>
+#include<test_logicaunittest.h>
 //#include<test_statistcs.h>
 /* Required by the unity test framework */
 void setUp() {}
@@ -25,6 +26,7 @@ int main(void)
 	 test_calc();
 	 test_is_trig();
 	test_quadratic();
+	test_logics();
 	//test_statistics();
 	 
 
