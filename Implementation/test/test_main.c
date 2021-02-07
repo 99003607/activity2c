@@ -21,7 +21,7 @@ int main(void)
 	 test_base();
 	test_is_expo();
 	test_revers();
-	 test_calc()
+	 test_calc();
 	//test_statistics();
 	 //test_quadratic();
 
