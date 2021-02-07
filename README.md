@@ -30,7 +30,7 @@ Our calculator performs the basic functions and complex calculations such as tri
 | ChandanJ                   | 99003602 |2|       2          |0|            0            |
 | Nandyala Naveen KumarReddy | 99003604 |            |                  |                 |                        |
 | Sandesh Prabhu             | 99003607 |       8       |         8          |       0            |           0             |
-| Satya SowmyaSuravarapu     | 99003609 |              |                   |                   |                        |
+| Satya Sowmya Suravarapu    | 99003609 |    6          |    6               |    0               |    0                    |
 | Arnab Chakraborty          | 99003611 |              |                   |                   |                        |
 | Vikram Anandnarayan Hegde  | 99003597 |        6|                |                   |                    |
 | SayanDey                   | 99003613 |        3       |           3        |                  |              0          |
