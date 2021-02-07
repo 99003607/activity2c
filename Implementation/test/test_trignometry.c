@@ -25,7 +25,7 @@ void test_cos(void) {
 void test_tan(void) {
   
   //test function to verify tan operation
-  TEST_ASSERT_EQUAL(1.732, trig_t(60));
-  TEST_ASSERT_EQUAL(1, trig_t(45));
+  TEST_ASSERT_EQUAL(0, trig_t(0));
+  TEST_ASSERT_EQUAL(0.99, trig_t(45));
 }
 
