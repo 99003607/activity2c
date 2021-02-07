@@ -8,17 +8,17 @@
 /* Start of the application test */
 void test_revers()
 {
-  RUN_TEST(convertoctalToDecimal);
-  RUN_TEST(convertbinaryToDecimal);
+  RUN_TEST(test_convertoctalToDecimal);
+  RUN_TEST(test_convertbinaryToDecimal);
 }
 
 /* Write all the test functions */ 
-void convertoctalToDecimal(void) {
+void test_convertoctalToDecimal(void) {
   TEST_ASSERT_EQUAL(55, convertoctalToDecimal(67));
    
 }
 
-void convertbinaryToDecimal(void) {
+void test_convertbinaryToDecimal(void) {
   TEST_ASSERT_EQUAL(439, convert(110110111));
   
 }
