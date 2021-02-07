@@ -29,8 +29,8 @@ View [Git Inspector](https://99003607.github.io/activity2c/)
 |----------------------------|----------|--------------|-------------------|-------------------|------------------------|
 | SrinidhiGorityala          | 99003598 |        4      | 4                  |     0             |       0                 |
 | Naga ChaithanyaKandukuru   | 99003600 |              |                   |                   |                        |
-| ChandanJ                   | 99003602 |2|       2          |0|            0            |
-| Nandyala Naveen KumarReddy | 99003604 |            |                  |                 |                        |
+| ChandanJ                   | 99003602 |2|       2          |0|            0            |   
+| Nandyala Naveen KumarReddy | 99003604 |       2     |       2      |         0        |          0              |
 | Sandesh Prabhu             | 99003607 |       8       |         8          |       0            |           0             |
 | Satya Sowmya Suravarapu    | 99003609 |    6          |    6               |    0               |    0                    |
 | Arnab Chakraborty          | 99003611 |              |                   |                   |                        |
