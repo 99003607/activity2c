@@ -3,6 +3,7 @@
 #include<test_base.h>
 #include<test_exponential.h>
 #include<test_quadratic.h>
+#include<test_revers.h>
 //#include<test_statistcs.h>
 /* Required by the unity test framework */
 void setUp() {}
@@ -18,6 +19,7 @@ int main(void)
     test_is_unitconv();
 	 test_base();
 	test_is_expo();
+	test_revers();
 	//test_statistics();
 	 //test_quadratic();
 
