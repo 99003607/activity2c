@@ -3,7 +3,7 @@
 void test_revers();
 
 // Prototypes for all the test functions 
-void convertoctalToDecimal(void);
-void convertbinaryToDecimal(void);
+void test_convertoctalToDecimal(void);
+void test_convertbinaryToDecimal(void);
 
 #endif 
