@@ -5,9 +5,8 @@
 | HL2\_L1\_1 | Working of function Mean | Operand must be real number | -10,-14 | -12|  |  |
 | HL2\_L1\_2 | Working of function Mean | Operand must be real number | 11,21 | 16 |  |  |
 | HL2\_L1\_3 | Working of function Sum | Operand must be real number | 15,25 | 40 |  |  |
-|HL2\_L1\_4| Working of function Sum | Operand must be real number | -14,-16 | -30 |  |  |
-| HL2\_L1\_5 | Working of function Standard deviation | Operand must be real number | 10,12 | 1 |  |  |
-| HL2\_L1\_6| Working of function Variance | Operand must be real number | 25,65 | 400 ||
+| HL2\_L1\_4| Working of function Standard deviation | Operand must be real number | 10,12 | 1 |  |  |
+| HL2\_L1\_5 | Working of function Variance | Operand must be real number | 25,65 | 400 ||
 | HL3_L1_1    |      calculations trignometric operations        |       operand should be int        |        1 float or int value       |        operand can be integer or float or no value  |  |
 | HL3_L1_2    |      calculations trignometric operations        |       operand should be int        |        1 float or int value       |        operand can be integer or float or no value  |  |
 | HL3_L1_3    |      calculations trignometric operations        |       operand should be int        |        1 float or int value       |        operand can be integer or float or no value  |  |
