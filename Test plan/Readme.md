@@ -5,8 +5,9 @@
 | HL2\_L1\_1 | Working of function Mean | Operand must be real number | -10,-14 | -12|  |  |
 | HL2\_L1\_2 | Working of function Mean | Operand must be real number | 11,21 | 16 |  |  |
 | HL2\_L1\_3 | Working of function Sum | Operand must be real number | 15,25 | 40 |  |  |
-| HL2\_L1\_4| Working of function Standard deviation | Operand must be real number | 10,12 | 1 |  |  |
-| HL2\_L1\_5 | Working of function Variance | Operand must be real number | 25,65 | 400 ||
+|HL2\_L1\_4| Working of function Sum | Operand must be real number | -14,-16 | -30 |  |  |
+| HL2\_L1\_5 | Working of function Standard deviation | Operand must be real number | 10,12 | 1 |  |  |
+| HL2\_L1\_6| Working of function Variance | Operand must be real number | 25,65 | 400 ||
 | HL3_L1_1    |      calculations trignometric operations        |       operand should be int        |        1 float or int value       |        operand can be integer or float or no value  |  |
 | HL3_L1_2    |      calculations trignometric operations        |       operand should be int        |        1 float or int value       |        operand can be integer or float or no value  |  |
 | HL3_L1_3    |      calculations trignometric operations        |       operand should be int        |        1 float or int value       |        operand can be integer or float or no value  |  |
@@ -35,9 +36,9 @@
 | HL6_L1_1    |      Finding roots of equation with Discriminant =0        |       a,b,c are real numbers        |        3 float operands        |         The two roots of the equation which are real and equal         |               |  |
 | HL6_L1_2    |    Finding roots of equation with Discriminant < 0          |       a,b,c are real numbers        |       3 float operands         |        The two roots of the equation which are complex and different          |               |  |
 | HL6_L1_3    |     Finding roots of equation with Discriminant > 0         |      a,b,c are real numbers           |      3 float operands            |      The two roots of the equation which are real and different            |               |  |
-| HL7_L1_1     |   work for function dec to binary          |      operand should be int         |      121          |        1111001          |               |  |
-| HL7_L1_2|     work for function dec to octal           |      operand should be int           |        121          |        71       |  |
-| HL7_L1_3|       work for function dec to hexadecimal           |      operand should be int            |       121         |         79         |            |  |
+| HL7_L1_1     |   work for function dec to binary          |      operand should be int         |      121          |        1111001          |       1111001        | requirement based |
+| HL7_L1_2|     work for function dec to octal           |      operand should be int           |        121          |        71       |  71|requirement based
+ 
 | HL9_L1_1 | Exponential Function (decreasing) | If input (X) is less than 0. | X = -1 | Y = e^(-1) = 0.367 |    |
 | HL9_L1_2 | Exponential Function (when input is 0) | If input (X) is equal to 0. | X = 0 | Y = e^(0) = 1 |   |  |
 | HL9_L1_3 | Exponential Function (increasing) | If input (X) is greater than 0 | X = 2 | Y = e^(2) = 7.389 |   |  |
