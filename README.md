@@ -28,7 +28,7 @@ View [Git Inspector](https://99003607.github.io/activity2c/)
 | Name                       | PS NO    | Total Test Cases | Test Cases passed | Test cases Failed | Test cases not checked |
 |----------------------------|----------|--------------|-------------------|-------------------|------------------------|
 | SrinidhiGorityala          | 99003598 |        4      | 4                  |     0             |       0                 |
-| Naga ChaithanyaKandukuru   | 99003600 |              |                   |                   |                        |
+| Naga ChaithanyaKandukuru   | 99003600 |       6       |    6               |      0             |          0              |
 | ChandanJ                   | 99003602 |2 |       2          |0|            0            |   
 | Nandyala Naveen KumarReddy | 99003604 |       2     |       2      |         0        |          0              |
 | Vikram Anandnarayan Hegde  | 99003597 |        5|           1     |         0          |           4         |
