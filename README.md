@@ -36,5 +36,9 @@ View [Git Inspector](https://99003607.github.io/activity2c/)
 | Satya Sowmya Suravarapu    | 99003609 |    6          |    6               |    0               |    0                    |
 | Arnab Chakraborty          | 99003611 |      5        |         5          |         0          |           0             |
 | SayanDey                   | 99003613 |        3       |           3        |                  |              0          |
+## Issues Raised 
 
+|Name                        |PS NO       | No of issues raised | no of issues closed | to be done in future |
+|Srinidhi Gorityala   | 99003598| 11|6| 5|
+Naga Chaithanya Kandukuru | 9903600|9|7|2|
 
