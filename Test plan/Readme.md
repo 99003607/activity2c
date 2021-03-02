@@ -46,6 +46,20 @@
 # version2
 | ID  | Description  | Pre-Condition | Expected Input | Expected Output  | Actual Output | Test scenario |
 |-----|--------------|---------------|----------------|------------------|---------------|---------------|
+ HL5_L1_1 | Logical AND | Choose AND operation from all the options |Two float operands| Returns AND of two values in float |    |  |
+| HL5_L1_2 | Logical AND  |Choose AND operation from all the options | In two floatany one operand is invalid | Returns error as another operand is invalid |   |  |
+| HL5_L2_1 | Logical OR | Choose OR operation from all the options |Two float operands| Returns OR of two values in float |    |  |
+| HL5_L2_2 | Logical OR | Choose OR operation from all the options |In two float any one operand is invalid | Returns error as another operand is invalid |    |  |
+| HL5_L3_1 | Logical NOT | Choose NOT operation from all the options |float operand | Returns NOT value in float |    |  |
+| HL5_L3_2 | Logical NOT | Choose NOT operation from all the options |Invalid float operands | Returns error as operand is invalid |    |  |
+| HL5_L4_1 | Logical NAND | Choose NAND operation from all the options | Two float operands | Returns NAND of two values in float |   |  |
+| HL5_L4_2 | Logical NAND| Choose NAND operation from all the options |Invalid float operands | Returns error as operand is invalid |    |  |
+| HL5_L5_1 | Logical NOR | Choose NOR operation from all the options | In two float any one operand is invalid | Returns error as another operand is invalid |   |  |
+| HL5_L5_2 | Logical NOR | Choose NOR operation from all the options |Invalid float operands | Returns error as operand is invalid |    |  |
+| HL5_L6_1 | Logical XOR | Choose XOR operation from all the options | Two float operands | Returns XOR of two values |    |  |
+| HL5_L6_2 | Logical XOR | Choose XOR operation from all the options |Invalid float operands | Returns error as operand is invalid |    |  |
+| HL5_L7_1 | Logical XNOR | Choose XNOR operation from all the options | Two float operands | Returns XNOR of two values |    |  |
+| HL5_L6_1 | Logical XNOR | Choose XNOR operation from all the options | invalid float operands | Returns error as operand is invalid |    |  |
 
 
 
