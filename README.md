@@ -39,6 +39,7 @@ View [Git Inspector](https://99003607.github.io/activity2c/)
 ## Issues Raised 
 
 |Name                        |PS NO       | No of issues raised | no of issues closed | to be done in future |
+|----------------------------|------------|---------------------|---------------------|----------------------|
 |Srinidhi Gorityala   | 99003598| 11|6| 5|
-Naga Chaithanya Kandukuru | 9903600|9|7|2|
+|Naga Chaithanya Kandukuru | 9903600|9|7|2|
 
