@@ -26,7 +26,7 @@ void test_tan(void) {
   
   //test function to verify tan operation
   TEST_ASSERT_EQUAL(0, trig_tan(0));//
-  TEST_ASSERT_EQUAL(1.67,trig_tan(45));
+  TEST_ASSERT_EQUAL(0.99,trig_tan(45));
 }
 
 
