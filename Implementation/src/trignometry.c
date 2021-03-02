@@ -35,15 +35,6 @@ float trig_c(float degree)
 	return (result);
 }
 
-//float trig_sec(float degree)  
-//{  
-	//float PI = 3.14159; 
-	//float radian,result; 
-	//radian = degree * (PI / 180.0);  
-	//result=sec(radian);
-	//printf("Sec(%f) = %f\n", degree, result);  
-	//return (result);
-//}
 
 	  
 float trig_tan(float degree)  
@@ -56,15 +47,7 @@ float trig_tan(float degree)
 	return (result);
 }
 
-//float trig_cot(float degree)  
-//{   
-	//float PI = 3.14159;
-     // float radian,result;  
-	//radian = degree * (PI / 180.0);  
-	//result=cot(radian); 
-	//printf("Cot(%f) = %f\n", degree, result); 
-	//return (result);
-//}
+
 void trignometry()
 {       
         int operation;
