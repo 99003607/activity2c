@@ -97,7 +97,7 @@
 ![basic operation](usecase_trignometry.png)
 
 
-<h2>Use case diagram</h2>
+<h2>version2_lowlevel</h2>
 
 ![basic operation](version2_lowlevel.png)
 
