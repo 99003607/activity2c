@@ -22,12 +22,12 @@ void test_cos(void) {
 	 TEST_ASSERT_EQUAL(0, trig_c(90));
   TEST_ASSERT_EQUAL(0.5, trig_c(60));
 }
-void test_tan(void) {
+//void test_tan(void) {
   
   //test function to verify tan operation
   //TEST_ASSERT_EQUAL(0, trig_tan(0));//
   TEST_ASSERT_EQUAL(1.67,trig_tan(45));
-}
+//
 
 
 
