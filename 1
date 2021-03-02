@@ -1,0 +1,86 @@
+Implementation/src/calculator_operations.c:16:13: error: Uninitialized variable: calculator_operand1 [uninitvar]
+            calculator_operand1,
+            ^
+Implementation/src/calculator_operations.c:17:13: error: Uninitialized variable: calculator_operand2 [uninitvar]
+            calculator_operand2,
+            ^
+Implementation/src/calculator_operations.c:18:17: error: Uninitialized variable: calculator_operand1 [uninitvar]
+            add(calculator_operand1, calculator_operand2));
+                ^
+Implementation/src/calculator_operations.c:18:38: error: Uninitialized variable: calculator_operand2 [uninitvar]
+            add(calculator_operand1, calculator_operand2));
+                                     ^
+Implementation/src/calculator_operations.c:22:13: error: Uninitialized variable: calculator_operand1 [uninitvar]
+            calculator_operand1,
+            ^
+Implementation/src/calculator_operations.c:23:13: error: Uninitialized variable: calculator_operand2 [uninitvar]
+            calculator_operand2,
+            ^
+Implementation/src/calculator_operations.c:24:22: error: Uninitialized variable: calculator_operand1 [uninitvar]
+            subtract(calculator_operand1, calculator_operand2));
+                     ^
+Implementation/src/calculator_operations.c:24:43: error: Uninitialized variable: calculator_operand2 [uninitvar]
+            subtract(calculator_operand1, calculator_operand2));
+                                          ^
+Implementation/src/calculator_operations.c:28:13: error: Uninitialized variable: calculator_operand1 [uninitvar]
+            calculator_operand1,
+            ^
+Implementation/src/calculator_operations.c:29:13: error: Uninitialized variable: calculator_operand2 [uninitvar]
+            calculator_operand2,
+            ^
+Implementation/src/calculator_operations.c:30:22: error: Uninitialized variable: calculator_operand1 [uninitvar]
+            multiply(calculator_operand1, calculator_operand2));
+                     ^
+Implementation/src/calculator_operations.c:30:43: error: Uninitialized variable: calculator_operand2 [uninitvar]
+            multiply(calculator_operand1, calculator_operand2));
+                                          ^
+Implementation/src/calculator_operations.c:34:13: error: Uninitialized variable: calculator_operand1 [uninitvar]
+            calculator_operand1,
+            ^
+Implementation/src/calculator_operations.c:35:13: error: Uninitialized variable: calculator_operand2 [uninitvar]
+            calculator_operand2,
+            ^
+Implementation/src/calculator_operations.c:36:20: error: Uninitialized variable: calculator_operand1 [uninitvar]
+            divide(calculator_operand1, calculator_operand2));
+                   ^
+Implementation/src/calculator_operations.c:36:41: error: Uninitialized variable: calculator_operand2 [uninitvar]
+            divide(calculator_operand1, calculator_operand2));
+                                        ^
+Implementation/src/calculator_operations.c:47:12: error: Uninitialized variable: calculator_operand1 [uninitvar]
+    return(calculator_operand1+calculator_operand2);
+           ^
+Implementation/src/calculator_operations.c:18:17: note: Calling function 'add', 1st argument 'calculator_operand1' value is <Uninit>
+            add(calculator_operand1, calculator_operand2));
+                ^
+Implementation/src/calculator_operations.c:47:12: note: Uninitialized variable: calculator_operand1
+    return(calculator_operand1+calculator_operand2);
+           ^
+Implementation/src/calculator_operations.c:51:12: error: Uninitialized variable: calculator_operand1 [uninitvar]
+    return(calculator_operand1-calculator_operand2);
+           ^
+Implementation/src/calculator_operations.c:24:22: note: Calling function 'subtract', 1st argument 'calculator_operand1' value is <Uninit>
+            subtract(calculator_operand1, calculator_operand2));
+                     ^
+Implementation/src/calculator_operations.c:51:12: note: Uninitialized variable: calculator_operand1
+    return(calculator_operand1-calculator_operand2);
+           ^
+Implementation/src/calculator_operations.c:55:12: error: Uninitialized variable: calculator_operand1 [uninitvar]
+    return(calculator_operand1*calculator_operand2);
+           ^
+Implementation/src/calculator_operations.c:30:22: note: Calling function 'multiply', 1st argument 'calculator_operand1' value is <Uninit>
+            multiply(calculator_operand1, calculator_operand2));
+                     ^
+Implementation/src/calculator_operations.c:55:12: note: Uninitialized variable: calculator_operand1
+    return(calculator_operand1*calculator_operand2);
+           ^
+Implementation/src/calculator_operations.c:59:12: error: Uninitialized variable: calculator_operand1 [uninitvar]
+    return(calculator_operand1/calculator_operand2);
+           ^
+Implementation/src/calculator_operations.c:36:20: note: Calling function 'divide', 1st argument 'calculator_operand1' value is <Uninit>
+            divide(calculator_operand1, calculator_operand2));
+                   ^
+Implementation/src/calculator_operations.c:59:12: note: Uninitialized variable: calculator_operand1
+    return(calculator_operand1/calculator_operand2);
+           ^
+nofile:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 configurations. Use --force to check all configurations. For more details, use --enable=information. [toomanyconfigs]
+

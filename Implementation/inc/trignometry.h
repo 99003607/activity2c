@@ -6,5 +6,9 @@ void trignometry();
 float trig_s(float angle);
 float trig_c(float angle);
 float trig_t(float angle);
+//float trig_cosec(float angle);
+//float trig_cot(float angle);
+//float trig_sec(float angle);
+
 
 #endif
