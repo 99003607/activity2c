@@ -3,6 +3,8 @@
   
 # Product Description:
 Our product is a calculator which has not only the basic arithmetic capabilites but there are also other functions such as special functions (i.e., square root, factorial, prime, etc.), trigonometric functions,conversion functions (i.e., meter to centimeter, etc.),Statistical functions(mean,median,variance,mode) and Boolean functions(AND, OR, NOT, XOR, XNOR).
+# Modified Requirements : 
+Among the Requirements mentioned Logical operations an Airthemetic operations are modified and are further modified to meet the requirements mentioned below,
 
 # SWOT Analysis:
 ![SWOT](swot.png)
