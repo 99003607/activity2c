@@ -12,11 +12,15 @@ void basicoperations()
 	switch(choice1)
     {
          case 1:
-            printf("\n\t%d + %d = %d\nEnter to continue", 
+            /*printf("\n\t%d + %d = %d\nEnter to continue", 
             calculator_operand1,
             calculator_operand2,
             add(calculator_operand1, calculator_operand2));
-            getchar();
+            getchar();*/
+	    printf("Enter two operands:");
+	    scanf(%d,%d,calculator_operand1,calculator_operand2);
+	    Printf("Result:%d",add(calculator_operand1, calculator_operand2));
+	    getchar();	
             break;
          case 2:
             printf("\n\t%d - %d = %d\nEnter to continue", 
