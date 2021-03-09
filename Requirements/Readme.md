@@ -81,21 +81,22 @@ Among the Requirements mentioned Logical operations an Airthemetic operations ar
 | HL4_L10 | gram to kilogram |
 | HL4_L11 | kilogram to gram |
 | HL6_L1 | Qudratic equations  |
-| HL6_L2 | logic AND |
-| HL6_L3 | logic OR  |
-| HL6_L4 | logic NOT  |
-| HL6_L5 | logic XOR  |
-| HL6_L6 | logic XNOR  |
-| HL6_L7 | null matrix |
-| HL6_L1 | symmetric matrix  |
-| HL6_L1 | diognal matrix  |
-| HL6_L1 | row matrix |
+| HL5_L2 | logic AND |
+| HL5_L3 | logic OR  |
+| HL5_L4 | logic NOT  |
+| HL5_L5 | logic XOR  |
+| HL5_L6 | logic XNOR  |
+| HL7_L7 | decimal to hexadecimal |
+| HL7_L1 | decimal to binary  |
+| HL7_L1 | decimal to octal  |
 | HL6_L1 | exponentially increasing function|
 | HL6_L1 | exponentially decreasing  function|
 | HL6_L1 | quadratic  function|
 | HL6_L1 | satistics-mean|
 | HL6_L1 | satistics-mode|
 | HL6_L1 | satistics-median|
+
+
 
 
 
