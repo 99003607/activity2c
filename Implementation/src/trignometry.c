@@ -37,7 +37,7 @@ float trig_c(float degree)
 
 
 	  
-float trig_tan(float degree)  
+float trig_t(float degree)  
 {   
 	float PI = 3.14159;
       float radian,result;  
@@ -65,7 +65,7 @@ void trignometry()
 	                 trig_c(angle);
 	                 break;
 	        case 3:
-	                 trig_tan(angle);
+	                 trig_t(angle);
 	                 break;
 		
 	        default:
