@@ -19,7 +19,7 @@ void basicoperations()
             getchar();*/
 	    printf("Enter two operands:");
 	    scanf(%d,%d,calculator_operand1,calculator_operand2);
-	    Printf("Result:%d",add(calculator_operand1, calculator_operand2));
+	    printf("Result:%d",add(calculator_operand1, calculator_operand2));
 	    getchar();	
             break;
          case 2:
