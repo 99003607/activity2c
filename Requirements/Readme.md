@@ -92,9 +92,9 @@ Among the Requirements mentioned Logical operations an Airthemetic operations ar
 | HL6_L1 | exponentially increasing function|
 | HL6_L1 | exponentially decreasing  function|
 | HL6_L1 | quadratic  function|
-| HL6_L1 | satistics-mean|
-| HL6_L1 | satistics-mode|
-| HL6_L1 | satistics-median|
+| HL2_L1 | satistics-mean|
+| HL2_L1 | satistics-mode|
+| HL2_L1 | satistics-median|
 
 
 
