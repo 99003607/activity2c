@@ -22,7 +22,7 @@ float trig_s(float degree)
 	//result=cosec(radian);
 	//printf("cosec(%f) = %f\n", degree, result);  
 	//return (result);
-//}
+//}//
 
 	  
 float trig_c(float degree)  
