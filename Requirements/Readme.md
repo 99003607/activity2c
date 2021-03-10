@@ -57,8 +57,7 @@ Among the Requirements mentioned Logical operations an Airthemetic operations ar
 | HL5 | Logical Functions |
 | HL6 | Algebraic Functions |
 | HL7 | Base Conversions |
-| HL8 | Matrix Functions |
-| HL9 | Exponential Functions |
+| HL8 | Exponential Functions |
 
 ### Low Level Requirements
 
@@ -86,18 +85,19 @@ Among the Requirements mentioned Logical operations an Airthemetic operations ar
 | HL4_L9 | kelvin to celcius |
 | HL4_L10 | gram to kilogram |
 | HL4_L11 | kilogram to gram |
-| HL6_L1 | Qudratic equations  |
 | HL5_L2 | logic AND |
 | HL5_L3 | logic OR  |
 | HL5_L4 | logic NOT  |
 | HL5_L5 | logic XOR  |
 | HL5_L6 | logic XNOR  |
-| HL7_L7 | decimal to hexadecimal |
-| HL7_L1 | decimal to binary  |
-| HL7_L1 | decimal to octal  |
+| HL6_L1 | Qudratic equations  |
 | HL6_L1 | exponentially increasing function|
 | HL6_L1 | exponentially decreasing  function|
 | HL6_L1 | quadratic  function|
+| HL7_L7 | decimal to hexadecimal |
+| HL7_L1 | decimal to binary  |
+| HL7_L1 | decimal to octal  |
+
 
 
 
