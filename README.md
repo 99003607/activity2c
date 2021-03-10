@@ -9,6 +9,12 @@ Our calculator performs the basic functions and complex calculations such as tri
 
 ## Github inspector
 View [Git Inspector](https://99003607.github.io/activity2c/)
+
+| Codacy Badge                                                                                                                                                                                                                                                           |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [![Codacy Badge](https://app.codacy.com/project/badge/Grade/a424771b7e364c4dadf03c5c7f05a66d)](https://www.codacy.com/gh/99003607/activity2c/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=99003607/activity2c&amp;utm_campaign=Badge_Grade) |
+
+
 ## Contributors list:  
 | Name                       | PS NO    | Features Built | No of Issues Raised | No of issues Resolved |
 |----------------------------|----------|----------------|---------------------|-----------------------|
