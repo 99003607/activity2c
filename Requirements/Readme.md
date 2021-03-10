@@ -69,6 +69,12 @@ Among the Requirements mentioned Logical operations an Airthemetic operations ar
 | HL1\_L2 | Subtract |
 | HL1\_L3 | Multiply |
 | HL1\_L4 | Divide |
+| HL2_L1 | satistics-mean|
+| HL2_L1 | satistics-mode|
+| HL2_L1 | satistics-median|
+| HL3_L1 | SIN|
+| HL3_L2 | COS |
+| HL3_L3 | TAN |
 | HL4_L1 | Centimeter to meter |
 | HL4_L2 | Centimeter to Kilometer |
 | HL4_L3 | meter to Centimeter |
@@ -92,9 +98,7 @@ Among the Requirements mentioned Logical operations an Airthemetic operations ar
 | HL6_L1 | exponentially increasing function|
 | HL6_L1 | exponentially decreasing  function|
 | HL6_L1 | quadratic  function|
-| HL2_L1 | satistics-mean|
-| HL2_L1 | satistics-mode|
-| HL2_L1 | satistics-median|
+
 
 
 
